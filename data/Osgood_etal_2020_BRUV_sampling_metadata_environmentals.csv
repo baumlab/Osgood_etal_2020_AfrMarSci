@@ -1,0 +1,420 @@
+"","Site","Date","Time","WaterTemp","WindDir","WindSpeed","AirTemp","AirPressure","SeaState","CloudCover","TideState","Hours_After_Tide_State","Moon_Ill","Moon_phase","Vis_Code","Depth","Habitat","Profile","Month","Year","Day","Protection","Region","Total_Time","Season","Season2","StudyYear"
+"1","A10B","16-07-29",NA,15,"S","14.8",16,"1022",2.6,2,"Low","5:44:00",23,"Waning crescent","2",32,"Rocky reef",1,7,"16",29,"Unprotected","Walker Bay",56.61666667,"Winter-Spring","Fall-Winter",NA
+"2","A11","16-07-29",NA,14.3,"Variable","3.7",13,"1021",2.6,2,"Low","2:37:00",23,"Waning crescent","1",44,"Rocky reef",1,7,"16",29,"Unprotected","Walker Bay",55.15,"Winter-Spring","Fall-Winter",NA
+"3","A12","16-07-29",NA,15,"Variable","3.7",13,"1021",2.6,2,"Low","2:42:00",23,"Waning Cresent","2",43,"Rocky reef",1,7,"16",29,"Unprotected","Walker Bay",57.06666667,"Winter-Spring","Fall-Winter",NA
+"4","A12","17-04-11",NA,18,"ESE","13",25,"1016",1.7,2,"Low","2:39:00",100,"Full moon","4",45,"Sand",1,4,"17",11,"Unprotected","Walker Bay",66.18333333,"Summer-Fall","Fall-Winter",NA
+"5","A13","16-07-29",NA,15,"Variable","3.7",13,"1021",2.6,2,"Low","4:07:00",23,"Waning crescent","2",38,"Rocky reef",0,7,"16",29,"Unprotected","Walker Bay",59.65,"Winter-Spring","Fall-Winter",NA
+"6","A13","17-07-04",NA,14.17,"W","2",14,"1022",1.9,3,"Low","4:45:00",79,"Waxing gibbous","2",43,"Rocky reef",3,7,"17",4,"Unprotected","Walker Bay",62.95,"Winter-Spring","Fall-Winter",NA
+"7","A13","18-04-05",NA,11.7,"NW","22",NA,"1008.6",NA,NA,"High","2:08:00",76,"Waning crescent","3",34,"Rocky reef",1,4,"18",5,"Unprotected","Walker Bay",56.46666667,"Summer-Fall","Fall-Winter",NA
+"8","A14","17-04-11",NA,18,"SSE","16",26,"1014",1.7,1,"Low","4:17:00",100,"Full moon","3",37,"Sand",0,4,"17",11,"Unprotected","Walker Bay",60.01666667,"Summer-Fall","Fall-Winter",NA
+"9","A14","17-07-04",NA,15,"SW","6",18,"1022",1.8,3,"Low","4:50:00",79,"Waxing gibbous","1",40,"Sand",1,7,"17",4,"Unprotected","Walker Bay",66.56666667,"Winter-Spring","Fall-Winter",NA
+"10","A15","17-07-03",NA,15.58,"SE","6",18,"1027",2.2,1,"Low","5:50:00",71,"Waxing gibbous","1",40,"Rocky reef",1,7,"17",3,"Unprotected","Walker Bay",65.28333333,"Winter-Spring","Fall-Winter",NA
+"11","A15","18-04-05",NA,12,"NW","22",NA,"1008.6",NA,NA,"High","3:45:00",76,"Waning gibbous","2",31,"Rocky reef",2,4,"18",5,"Unprotected","Walker Bay",63.81666667,"Summer-Fall","Fall-Winter",NA
+"12","A16","16-07-29",NA,15,"Variable","3.7",13,"1021",2.6,2,"Low","4:34:00",23,"Waning crescent","3",11,"Kelp",3,7,"16",29,"Unprotected","Walker Bay",74.26666667,"Winter-Spring","Fall-Winter",NA
+"13","A16","17-04-11",NA,18,"SSE","16",26,"1014",1.7,1,"Low","4:59:00",100,"Full moon","2",11,"Rocky reef",4,4,"17",11,"Unprotected","Walker Bay",59.26666667,"Summer-Fall","Fall-Winter",NA
+"14","A16","17-07-04",NA,14.17,"SW","6",18,"1022",1.8,3,"Low","4:00:00",79,"Waxing gibbous","3",11,"Kelp",4,7,"17",4,"Unprotected","Walker Bay",77.65,"Winter-Spring","Fall-Winter",NA
+"15","A16","18-04-05",NA,12.6,"NW","22",21.4,"1008.6",NA,NA,"High","3:38:00",76,"Waning gibbous","3",13,"Kelp",2,4,"18",5,"Unprotected","Walker Bay",62.06666667,"Summer-Fall","Fall-Winter",NA
+"16","A17","16-07-29",NA,15,"Variable","3.7",13,"1021",2.6,2,"Low","3:07:00",23,"Waning crescent","3",13,"Rocky reef",3,7,"16",29,"Unprotected","Walker Bay",58.76666667,"Winter-Spring","Fall-Winter",NA
+"17","A17","17-04-11",NA,18,"SSE","16",26,"1014",1.7,1,"Low","4:42:00",100,"Full moon","3",16,"Rocky reef",3,4,"17",11,"Unprotected","Walker Bay",61.26666667,"Summer-Fall","Fall-Winter",NA
+"18","A17","17-07-04",NA,14.17,"SW","6",18,"1022",1.8,3,"Low","4:55:00",79,"Waxing gibbous","3",14,"Rocky reef",3,7,"17",4,"Unprotected","Walker Bay",72.8,"Winter-Spring","Fall-Winter",NA
+"19","A18","16-07-29",NA,15,"S","24.1",17,"1022",2.6,3,"Low","2:35:00",23,"Waning crescent","2",26,"Rocky reef",1,7,"16",29,"Unprotected","Walker Bay",55.81666667,"Winter-Spring","Fall-Winter",NA
+"20","A19","16-07-29",NA,13.3,"S","14.8",16,"1022",2.6,2,"High","0:23:00",23,"Waning crescent","3",11,"Kelp",2,7,"16",29,"Unprotected","Walker Bay",56.3,"Winter-Spring","Fall-Winter",NA
+"21","A19","17-04-11",NA,18,"ESE","13",25,"1016",1.7,2,"Low","2:25:00",100,"Full moon","4",17,"Kelp",1,4,"17",11,"Unprotected","Walker Bay",65.25,"Summer-Fall","Fall-Winter",NA
+"22","A2","17-07-04",NA,14.17,"SW","11",18,"1021",1.8,3,"High","0:40:00",79,"Waxing gibbous","2",7,"Sand",0,7,"17",4,"Unprotected","Walker Bay",54.33333333,"Winter-Spring","Fall-Winter",NA
+"23","A20","16-10-26",NA,22.46,"Variable","3.7",20,"1009ë_",1.5,0,"Low","2:13:00",16,"Waning crescent","3",10,"Kelp",4,10,"16",26,"Unprotected","Walker Bay",58.75,"Winter-Spring","Spring-Summer",NA
+"24","A20","17-04-11",NA,18,"ESE","13",25,"1016",1.7,2,"Low","2:04:00",100,"Full moon","3",10,"Kelp",4,4,"17",11,"Unprotected","Walker Bay",68.01666667,"Summer-Fall","Fall-Winter",NA
+"25","A20","17-09-01",NA,14.58,"SE","18",9,"1027",1.9,4,"Low","4:35:00",74,"Waxing gibbous","4",8,"Kelp",4,9,"17",1,"Unprotected","Walker Bay",63.83333333,"Winter-Spring","Spring-Summer",NA
+"26","A21","16-07-29",NA,15,"S","14.8",16,"1022",2.6,2,"Low","5:52:00",23,"Waning cresent","2",31,"Rocky reef",3,7,"16",29,"Unprotected","Walker Bay",54.01666667,"Winter-Spring","Fall-Winter",NA
+"27","A3","16-07-29",NA,14,"SSE","22.2",17,"1022",2.6,3,"High","1:23:00",23,"Waning crescent","2",22,"Sand",0,7,"16",29,"Unprotected","Walker Bay",62.63333333,"Winter-Spring","Fall-Winter",NA
+"28","A3","17-04-11",NA,18,"E","14",22,"1017",1.7,2,"Low","0:00:00",100,"Full moon","1",25,"Sand",0,4,"17",11,"Unprotected","Walker Bay",62.98333333,"Summer-Fall","Fall-Winter",NA
+"29","A3","17-07-04",NA,14.17,"SW","11",18,"1021",1.8,3,"High","0:50:00",79,"Waxing gibbous","2",23.5,"Sand",0,7,"17",4,"Unprotected","Walker Bay",63.63333333,"Winter-Spring","Fall-Winter",NA
+"30","A4","16-07-29",NA,14.4,"SSE","22.2",18,"1022",2.6,2,"High","1:33:00",23,"Waning crescent","1",40,"Sand",0,7,"16",29,"Unprotected","Walker Bay",45.45,"Winter-Spring","Fall-Winter",NA
+"31","A5","16-10-26",NA,22.46,"Variable","3.7",20,"1009ë_",1.5,0,"Low","2:43:00",16,"Waning crescent","3",12,"Rocky reef",2,10,"16",26,"Unprotected","Walker Bay",59.43333333,"Winter-Spring","Spring-Summer",NA
+"32","A6","16-10-26",NA,22.46,"Variable","3.7",20,"1009ë_",1.5,0,"Low","2:43:00",16,"Waning crescent","2",25,"Sand",0,10,"16",26,"Unprotected","Walker Bay",60.23333333,"Winter-Spring","Spring-Summer",NA
+"33","A6","17-07-04",NA,14.17,"SW","11",18,"1021",1.8,3,"High","1:00:00",79,"Waxing gibbous","1",28,"Rocky reef",3,7,"17",4,"Unprotected","Walker Bay",62.65,"Winter-Spring","Fall-Winter",NA
+"34","A8","16-07-29",NA,15,"S","14.8",16,"1022",2.6,2,"Low","5:27:00",23,"Waning crescent","2",50,"Rocky reef",3,7,"16",29,"Unprotected","Walker Bay",49.25,"Winter-Spring","Fall-Winter",NA
+"35","A8","17-04-11",NA,18,"ESE","13",25,"1016",1.7,2,"Low","2:35:00",100,"Full moon","2",46,"Rocky reef",4,4,"17",11,"Unprotected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"36","A8","17-09-01",NA,15.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2",40,"Rocky reef",2,9,"17",1,"Unprotected","Walker Bay",64.98333333,"Winter-Spring","Spring-Summer",NA
+"37","A9B","16-07-29",NA,15,"S","24.1",17,"1022",2.6,3,NA,NA,23,"Waning cresent","3",26,"Rocky reef",1,7,"16",29,"Unprotected","Walker Bay",54.73333333,"Winter-Spring","Fall-Winter",NA
+"38","B1","16-10-26",NA,22.46,"WSW","5.6",27,"1008",1.5,0,"Low","3:53:00",16,"Waning crescent","3",27,"Rocky reef",1,10,"16",26,"Unprotected","Walker Bay",63.48333333,"Winter-Spring","Spring-Summer",NA
+"39","B1","17-04-21",NA,14.84,"ENE","6",18,"1018",1.3,1,"Low","2:30:00",32,"Waning crescent","1",45,"Rocky reef",4,4,"17",21,"Unprotected","Walker Bay",48.5,"Summer-Fall","Fall-Winter",NA
+"40","B1","18-03-07",NA,16.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2",24,"Rocky reef",2,3,"18",7,"Unprotected","Walker Bay",58.08333333,"Summer-Fall","Fall-Winter",NA
+"41","B12A","16-10-20",NA,16,"NE","22",21,"1010",1.7,0,"High","4:18:00",75,"Waning gibbous","2",40,"Sand",0,10,"16",20,"Unprotected","Walker Bay",67.71666667,"Winter-Spring","Spring-Summer",NA
+"42","B13","16-10-20",NA,16,"NE","22",21,"1010",1.7,0,"High","4:09:00",75,"Waning gibbous","2",35,"Rocky reef",1,10,"16",20,"Unprotected","Walker Bay",67.15,"Winter-Spring","Spring-Summer",NA
+"43","B13","17-04-21",NA,14.84,"ENE","8",23,"1019",1.3,1,"Low","4:37:00",32,"Waning crescent","4",50,"Rocky reef",1,4,"17",21,"Unprotected","Walker Bay",56.93333333,"Summer-Fall","Fall-Winter",NA
+"44","B13","18-04-05",NA,13,"NW","22",NA,"1008.6",NA,NA,"High","5:08:00",76,"Waning gibbous","3",50,"Sand",1,4,"18",5,"Unprotected","Walker Bay",60.01666667,"Summer-Fall","Fall-Winter",NA
+"45","B16","16-10-20",NA,16.5,"NE","14",18,"1011",1.8,0,"High","2:02:00",75,"waning gibbous","1",40,"Sand",0,10,"16",20,"Unprotected","Walker Bay",56.96666667,"Winter-Spring","Spring-Summer",NA
+"46","B16","17-04-21",NA,14.84,"SE","14",31,"1018",1.5,1,"High","1:57:00",32,"Waning crescent","1",40,"Sand",0,4,"17",21,"Unprotected","Walker Bay",67.7,"Summer-Fall","Fall-Winter",NA
+"47","B16","17-07-12",NA,15,"ESE","7.1",28.4,"1008",NA,2,"Low","0:00:00",90,"Waning gibbous","1",45,"Sand",0,7,"17",12,"Unprotected","Walker Bay",62.36666667,"Winter-Spring","Fall-Winter",NA
+"48","B16","18-04-05",NA,14.4,"NW","22",NA,"1008.3",NA,NA,"High","5:28:00",76,"Waning gibbous","1",51,"Sand",1,4,"18",5,"Unprotected","Walker Bay",61.83333333,"Summer-Fall","Fall-Winter",NA
+"49","B17","16-10-20",NA,16,"NE","14",18,"1011",1.8,0,"High","2:02:00",75,"Waning gibbous","1",25,"Sand",0,10,"16",20,"Unprotected","Walker Bay",29.06666667,"Winter-Spring","Spring-Summer",NA
+"50","B17","17-04-21",NA,14.84,"SE","14",31,"1018",1.5,1,"High","1:28:00",32,"Waning crescent","1",23,"Sand",0,4,"17",21,"Unprotected","Walker Bay",79.3,"Summer-Fall","Fall-Winter",NA
+"51","B17","17-07-31",NA,14.81,"NNE","16",22,"1012",1.9,3,"High","3:58:00",53,"First quarter","1",19,"Sand",0,7,"17",31,"Unprotected","Walker Bay",49.3,"Winter-Spring","Fall-Winter",NA
+"52","B17","18-04-05",NA,13.6,"NW","22",NA,"1008.3",NA,NA,"Low","0:32:00",76,"Waning gibbous","1",28,"Sand",0,4,"18",5,"Unprotected","Walker Bay",61.48333333,"Summer-Fall","Fall-Winter",NA
+"53","B18","16-10-20",NA,16,"NE","14",18,"1011",1.8,0,"High","2:02:00",75,"Waning gibbous","1",35,"Sand",1,10,"16",20,"Unprotected","Walker Bay",54.81666667,"Winter-Spring","Spring-Summer",NA
+"54","B18","17-07-12",NA,15,"SE","9.9",25.8,"1008",NA,2,"High","4:36:00",90,"Waning gibbous","2",35,"Sand",0,7,"17",12,"Unprotected","Walker Bay",65.26666667,"Winter-Spring","Fall-Winter",NA
+"55","B18","18-03-07",NA,16.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1",35,"Sand",0,3,"18",7,"Unprotected","Walker Bay",59.11666667,"Summer-Fall","Fall-Winter",NA
+"56","B19","17-04-21",NA,14.84,"SE","14",31,"1018",1.5,1,"High","1:42:00",32,"Waning crescent","2",29,"Sand",0,4,"17",21,"Unprotected","Walker Bay",47.31666667,"Summer-Fall","Fall-Winter",NA
+"57","B19","17-07-12",NA,15,"SE","6.1",29,"1008",NA,3,"Low","0:06:00",90,"Waning gibbous","2",43,"Sand",0,7,"17",12,"Unprotected","Walker Bay",34.6,"Winter-Spring","Fall-Winter",NA
+"58","B2","16-10-06",NA,16,"NE","21",15,"1014",1.4,8,"High","2:15:00",25,"Waxing crescent","1",45,"Sand",0,10,"16",6,"Unprotected","Walker Bay",55.63333333,"Winter-Spring","Spring-Summer",NA
+"59","B2","17-04-21",NA,14.84,"ENE","6",18,"1018",1.3,1,"Low","2:43:00",32,"Waning crescent","3",45,"Rocky reef",1,4,"17",21,"Unprotected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"60","B4","17-04-21",NA,14.84,"ENE","6",18,"1018",1.3,1,"Low","2:53:00",32,"Waning crescent","4",35,"Rocky reef",1,4,"17",21,"Unprotected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"61","B4","17-07-03",NA,15.58,"SE","6",18,"1027",2.2,1,"Low","5:24:00",71,"Waxing gibbous","1",50,"Sand",0,7,"17",3,"Unprotected","Walker Bay",62.55,"Winter-Spring","Fall-Winter",NA
+"62","B7","16-10-26",NA,22.46,"WSW","5.6",27,"1008",1.5,0,"Low","3:44:00",16,"Waning crescent","3",55,"Sand",0,10,"16",26,"Unprotected","Walker Bay",57.96666667,"Winter-Spring","Spring-Summer",NA
+"63","B8","16-10-26",NA,22.46,"WSW","5.6",27,"1008",1.5,0,"Low","4:43:00",16,"Waning crescent","3",20,"Rocky reef",2,10,"16",26,"Unprotected","Walker Bay",66.4,"Winter-Spring","Spring-Summer",NA
+"64","B8","17-04-21",NA,14.84,"ENE","8",23,"1019",1.3,1,"Low","3:31:00",32,"Waning crescent","3",17,"Rocky reef",3,4,"17",21,"Unprotected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"65","B8","18-03-07",NA,12.21,"SSE","8",18,"1014",2.1,7,"High","1:03:00",68,"Waning gibbous","2",17,"Kelp",1,3,"18",7,"Unprotected","Walker Bay",60.35,"Summer-Fall","Fall-Winter",NA
+"66","C1","17-04-21",NA,14.84,"ENE","8",23,"1019",1.3,1,"Low","4:49:00",32,"Waning crescent","4",50,"Sand",0,4,"17",21,"Unprotected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"67","C1","17-07-12",NA,14.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1",50,"Sand",0,7,"17",12,"Unprotected","Walker Bay",58.03333333,"Winter-Spring","Fall-Winter",NA
+"68","C11","16-07-27",NA,13,"NW","13",13,"1014",2.4,0,"High","0:33:00",45,"Last quarter","1",35,"Sand",0,7,"16",27,"Unprotected","Walker Bay",103.1833333,"Winter-Spring","Fall-Winter",NA
+"69","C12","16-07-27",NA,13,"NW","13",13,"1014",2.4,0,"High","0:18:00",45,"Last quarter","4",48,"Sand",0,7,"16",27,"Unprotected","Walker Bay",60.61666667,"Winter-Spring","Fall-Winter",NA
+"70","C1A","16-09-22",NA,16,"S","22.2",16,"1024",2.6,7,"High","2:55:00",61,"Waning gibbous","1",43,"Sand",0,9,"16",22,"Unprotected","Walker Bay",66.81666667,"Winter-Spring","Spring-Summer",NA
+"71","C2","16-07-27",NA,13,"NW","13",13,"1014",2.4,0,"High","1:03:00",45,"Last Quarter","4",50,"Sand",0,7,"16",27,"Unprotected","Walker Bay",60.3,"Winter-Spring","Fall-Winter",NA
+"72","C3","16-07-25",NA,15.6,"SE","22.2",13,"1028",1.4,3,"High","3:30:00",72,"Waning gibbous","2",35,"Rocky reef",1,7,"16",25,"Unprotected","Walker Bay",51.5,"Winter-Spring","Fall-Winter",NA
+"73","C4","17-04-21",NA,14.84,"E","8",28,"1019",1.3,1,"High","2:05:00",32,"Waning crescent","3",50,"Sand",0,4,"17",21,"Unprotected","Walker Bay",60.88333333,"Summer-Fall","Fall-Winter",NA
+"74","C4A","16-09-22",NA,16,"S","22.2",16,"1024",2.6,7,"High","2:55:00",61,"Waning gibbous","2",38.7,"Rocky reef",1,9,"16",22,"Unprotected","Walker Bay",52.76666667,"Winter-Spring","Spring-Summer",NA
+"75","C6A","16-09-22",NA,16,"S","22.2",16,"1024",2.6,7,"High","2:55:00",61,"Waning gibbous","1",38.6,"Sand",0,9,"16",22,"Unprotected","Walker Bay",72.25,"Winter-Spring","Spring-Summer",NA
+"76","C7","16-07-25",NA,15.6,"E","22.2",13,"1028",1.9,3,"High","3:10:00",72,"Waning gibbous","3",40,"Sand",0,7,"16",25,"Unprotected","Walker Bay",52.53333333,"Winter-Spring","Fall-Winter",NA
+"77","D1","16-09-13",NA,15.3,"E","12",14,"1021",0.9,NA,"Low","2:10:00",82,"Waxing gibbous","2",50,"Rocky reef",2,9,"16",13,"Unprotected","Walker Bay",53.05,"Winter-Spring","Spring-Summer",NA
+"78","D10","16-10-27",NA,16.7,"SE","3",17,"1017",1,5,"Low","2:29:00",9,"Waning crescent","2",50,"Sand",0,10,"16",27,"Unprotected","Walker Bay",51.78333333,"Winter-Spring","Spring-Summer",NA
+"79","D10","17-05-15",NA,14.54,"NNE","11",21,"1019",1.2,1,"High","5:11:00",84,"Waning gibbous","3",40,"Sand",0,5,"17",15,"Unprotected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"80","D10","18-01-11",NA,18.6,"NNW","22",36,"1008",1.3,1,"High","0:02:00",24,"Waning crescent","2",43,"Sand",0,1,"18",11,"Unprotected","Walker Bay",64.13333333,"Summer-Fall","Spring-Summer",NA
+"81","D11","16-08-25",NA,14,"NE","13",9,"1021",3.6,7,"High","0:22:00",47,"Waning gibbous","1",32.5,"Sand",0,8,"16",25,"Unprotected","Walker Bay",70.16666667,"Winter-Spring","Fall-Winter",NA
+"82","D11","17-01-18",NA,18,"E","26",29,"1016",0.9,0,"High","3:28:00",68,"Waning gibbous","3",35,"Sand",0,1,"17",18,"Unprotected","Walker Bay",67.08333333,"Summer-Fall","Spring-Summer",NA
+"83","D11","18-01-11",NA,18.2,"S","5",24,"1008",1.3,1,"Low","3:23:00",24,"Waning crescent","2",34,"Sand",1,1,"18",11,"Unprotected","Walker Bay",59.13333333,"Summer-Fall","Spring-Summer",NA
+"84","D12","16-08-25",NA,14,"NE","13",9,"1021",3.6,7,"High","0:39:00",47,"Waning gibbous","3",21.8,"Sand",0,8,"16",25,"Unprotected","Walker Bay",55.15,"Winter-Spring","Fall-Winter",NA
+"85","D12","17-01-18",NA,18,"E","27",29,"1017",0.9,0,"High","3:11:00",68,"Waning gibbous","3",7,"Rocky reef",3,1,"17",18,"Unprotected","Walker Bay",67.73333333,"Summer-Fall","Spring-Summer",NA
+"86","D12","17-05-15",NA,14.54,"SSW","8",28,"1017",1.1,1,"Low","2:46:00",84,"Waning gibbous","4",20,"Sand",0,5,"17",15,"Unprotected","Walker Bay",49.98333333,"Summer-Fall","Fall-Winter",NA
+"87","D12","18-01-11",NA,18,"WNW","7",32,"1008",1.3,1,"Low","3:36:00",24,"Waning crescent","3",21,"Rocky reef",2,1,"18",11,"Unprotected","Walker Bay",57.36666667,"Summer-Fall","Spring-Summer",NA
+"88","D13","16-08-25",NA,15,"NE","12",18,"1022",3.5,6,"High","2:38:00",47,"Waning gibbous","2",22.7,"Rocky reef",2,8,"16",25,"Unprotected","Walker Bay",64.73333333,"Winter-Spring","Fall-Winter",NA
+"89","D13","17-01-18",NA,18,"E","27",29,"1016",0.9,0,"High","3:43:00",68,"Waning gibbous","3",20,"Rocky reef",1,1,"17",18,"Unprotected","Walker Bay",46.46666667,"Summer-Fall","Spring-Summer",NA
+"90","D13","17-05-15",NA,14.54,"SSW","8",28,"1017",1.1,1,"Low","2:54:00",84,"Waning gibbous","3",22,"Rocky reef",3,5,"17",15,"Unprotected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"91","D13","18-01-11",NA,18,"WNW","7",32,"1008",1.3,1,"Low","4:51:00",24,"Waning crescent","2",34,"Sand",0,1,"18",11,"Unprotected","Walker Bay",54.38333333,"Summer-Fall","Spring-Summer",NA
+"92","D14","16-08-25",NA,15,"NE","13",9,"1021",3.4,7,"High","0:53:00",47,"Waning gibbous","3",16,"Rocky reef",2,8,"16",25,"Unprotected","Walker Bay",87.11666667,"Winter-Spring","Fall-Winter",NA
+"93","D14","17-01-18",NA,18,"E","27",24,"1017",0.9,0,"High","2:45:00",68,"Waning gibbous","4",20,"Rocky reef",2,1,"17",18,"Unprotected","Walker Bay",73.3,"Summer-Fall","Spring-Summer",NA
+"94","D14","17-05-15",NA,14.54,"SSW","8",28,"1017",1.1,1,"Low","2:49:00",84,"Waning gibbous","3",14,"Rocky reef",2,5,"17",15,"Unprotected","Walker Bay",44.91666667,"Summer-Fall","Fall-Winter",NA
+"95","D14","18-01-11",NA,17.8,"WNW","7",32,"1008",1.3,1,"Low","3:40:00",24,"Waning crescent","4",16,"Rocky reef",3,1,"18",11,"Unprotected","Walker Bay",59.05,"Summer-Fall","Spring-Summer",NA
+"96","D15","16-08-25",NA,15,"NE","12",15,"1022",3.4,6,"High","2:48:00",47,"Last quarter","2",26,"Sand",0,8,"16",25,"Unprotected","Walker Bay",63.68333333,"Winter-Spring","Fall-Winter",NA
+"97","D15","17-01-18",NA,18,"E","26",29,"1016",0.9,0,"High","4:05:00",68,"Waning gibbous","3",20,"Sand",0,1,"17",18,"Unprotected","Walker Bay",41.38333333,"Summer-Fall","Spring-Summer",NA
+"98","D15","17-05-15",NA,14.54,"NNE","8",27,"1018",1.1,1,"Low","0:51:00",84,"Waning gibbous","3",25,"Sand",1,5,"17",15,"Unprotected","Walker Bay",79.36666667,"Summer-Fall","Fall-Winter",NA
+"99","D16","16-10-27",NA,16.7,"NE","8",19,"1017",1,4,"Low","2:44:00",9,"Waning crescent","2",35,"Sand",0,10,"16",27,"Unprotected","Walker Bay",52.63333333,"Winter-Spring","Spring-Summer",NA
+"100","D16","17-05-15",NA,14.54,"NNE","8",27,"1018",1.1,1,"Low","0:46:00",84,"Waning gibbous","2",32,"Sand",0,5,"17",15,"Unprotected","Walker Bay",68.88333333,"Summer-Fall","Fall-Winter",NA
+"101","D16","18-01-11",NA,18,"NNW","22",36,"1008",1.3,1,"High","0:08:00",24,"Waning crescent","1",35,"Sand",0,1,"18",11,"Unprotected","Walker Bay",67.7,"Summer-Fall","Spring-Summer",NA
+"102","D17","17-05-15",NA,14.54,"NNE","11",21,"1019",1.2,1,"High","5:18:00",84,"Waning gibbous","2",40,"Sand",0,5,"17",15,"Unprotected","Walker Bay",73.55,"Summer-Fall","Fall-Winter",NA
+"103","D17","18-01-11",NA,21.4,"WSW","20",33,"1008",1.3,1,"High","1:32:00",24,"Waning crescent","1",42,"Sand",1,1,"18",11,"Unprotected","Walker Bay",59.96666667,"Summer-Fall","Spring-Summer",NA
+"104","D18","16-08-25",NA,15,"NE","12",15,"1022",3.5,6,"High","2:58:00",47,"Waning gibbous","1",32,"Sand",0,8,"16",25,"Unprotected","Walker Bay",59.21666667,"Winter-Spring","Fall-Winter",NA
+"105","D18","17-05-15",NA,14.54,"NNE","8",27,"1018",1.1,1,"Low","0:54:00",84,"Waning gibbous","3",25,"Rocky reef",1,5,"17",15,"Unprotected","Walker Bay",83.41666667,"Summer-Fall","Fall-Winter",NA
+"106","D18","18-01-11",NA,18,"WNW","7",32,"1008",1.3,1,"Low","5:07:00",24,"Waning crescent","3",31,"Sand",0,1,"18",11,"Unprotected","Walker Bay",58.43333333,"Summer-Fall","Spring-Summer",NA
+"107","D19","17-05-15",NA,14.54,"NNE","8",27,"1018",1.1,1,"Low","0:42:00",84,"Waning gibbous","4",35,"Rocky reef",2,5,"17",15,"Unprotected","Walker Bay",64.55,"Summer-Fall","Fall-Winter",NA
+"108","D20","17-05-15",NA,14.54,"NNE","11",21,"1019",1.2,1,"High","5:22:00",84,"Waning gibbous","2",45,"Sand",0,5,"17",15,"Unprotected","Walker Bay",68.03333333,"Summer-Fall","Fall-Winter",NA
+"109","D9","18-01-11",NA,18,"WSW","20",33,"1008",1.3,1,"High","1:27:00",24,"Waning crescent","3",50,"Sand",0,1,"18",11,"Unprotected","Walker Bay",45.38333333,"Summer-Fall","Spring-Summer",NA
+"110","E1","17-02-24",NA,15.8,"W","14",23,"1010",1,1,"Low","0:40:00",7,"Waning crescent","4",20,"Sand",0,2,"17",24,"Protected","Walker Bay",30.63333333,"Summer-Fall","Spring-Summer",NA
+"111","E1","17-05-17",NA,13.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"3",15,"Sand",0,5,"17",17,"Protected","Walker Bay",74.01666667,"Summer-Fall","Fall-Winter",NA
+"112","E10","17-02-17",NA,16,"S","11",29,"1014",1.8,0,"High","5:05:00",65,"Waning gibbous","2",17,"Sand",0,2,"17",17,"Protected","Walker Bay",61.53333333,"Summer-Fall","Spring-Summer",NA
+"113","E10","17-05-15",NA,14.54,"NNE","11",14,"1018",1.2,1,"High","3:26:00",84,"Waning Gibbous","2",18,"Sand",0,5,"17",15,"Protected","Walker Bay",64.08333333,"Summer-Fall","Fall-Winter",NA
+"114","E10","18-01-24",NA,14.1,"WNW","11",19,"1009.1",0.7,6,"High","1:48:00",40,"Waxing crescent","1",17,"Sand",0,1,"18",24,"Protected","Walker Bay",58.2,"Summer-Fall","Spring-Summer",NA
+"115","E11","17-02-17",NA,16,"S","11",29,"1014",1.8,0,"High","4:59:00",65,"Waning gibbous","2",13,"Sand",1,2,"17",17,"Protected","Walker Bay",58.55,"Summer-Fall","Spring-Summer",NA
+"116","E11","17-05-15",NA,14.54,"NNE","11",14,"1018",1.2,1,"High","3:18:00",84,"Waning gibbous","1",12,"Sand",0,5,"17",15,"Protected","Walker Bay",62.91666667,"Summer-Fall","Fall-Winter",NA
+"117","E11","18-01-24",NA,15.59,"SSW","10",18,"1014.12",1,7,"High","1:06:00",33,"First quarter","2",15,"Sand",0,1,"18",24,"Protected","Walker Bay",61.36666667,"Summer-Fall","Spring-Summer",NA
+"118","E12","17-05-23",NA,13.05,"NW","8",18,"1012",1.5,3,"Low","2:35:00",10,"Waning crescent","3",38,"Rocky reef",1,5,"17",23,"Protected","Walker Bay",62.95,"Summer-Fall","Fall-Winter",NA
+"119","E12","18-06-12",NA,16.1,"N","15",11,"1030",0.3,1,"Low","2:02:00",5,"Waning crescent","3",35,"Rocky reef",2,6,"18",12,"Protected","Walker Bay",62.65,"Winter-Spring","Fall-Winter",NA
+"120","E13","17-02-17",NA,16,"E","11",24,"1015",1.7,0,"High","2:52:00",65,"Waning gibbous","2",19,"Sand",0,2,"17",17,"Protected","Walker Bay",63.51666667,"Summer-Fall","Spring-Summer",NA
+"121","E13","17-05-17",NA,12.67,"WSW","3",18,"1022",1.4,6,"High","2:36:00",68,"Waning gibbous","1",12,"Sand",0,5,"17",17,"Protected","Walker Bay",63.35,"Summer-Fall","Fall-Winter",NA
+"122","E13","18-01-24",NA,14.9,"S","12",19,"1014.7",1,5,"High","2:38:00",33,"First quarter","2",16,"Sand",0,1,"18",24,"Protected","Walker Bay",61.03333333,"Summer-Fall","Spring-Summer",NA
+"123","E14","17-02-17",NA,16,"E","11",24,"1015",1.7,0,"High","3:01:00",65,"Waning gibbous","2",14,"Sand",1,2,"17",17,"Protected","Walker Bay",61.31666667,"Summer-Fall","Spring-Summer",NA
+"124","E14","17-05-17",NA,12.67,"WSW","3",18,"1022",1.4,6,"High","2:30:00",68,"Waning gibbous","2",11,"Sand",0,5,"17",17,"Protected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"125","E15","17-02-17",NA,16,"E","11",24,"1015",1.7,0,"High","3:05:00",65,"Waning gibbous","1",17,"Sand",0,2,"17",17,"Protected","Walker Bay",56.11666667,"Summer-Fall","Spring-Summer",NA
+"126","E15","17-05-17",NA,12.67,"WSW","3",18,"1022",1.4,6,"High","2:19:00",68,"Waning gibbous","1",17,"Sand",1,5,"17",17,"Protected","Walker Bay",64.21666667,"Summer-Fall","Fall-Winter",NA
+"127","E15","18-01-24",NA,15.3,"S","16",21,"1014.98",1,4,"High","4:24:00",33,"First quarter","1",25,"Sand",0,1,"18",24,"Protected","Walker Bay",66.31666667,"Summer-Fall","Spring-Summer",NA
+"128","E16","17-02-17",NA,16,"E","11",24,"1015",1.7,0,"High","3:31:00",65,"Waning gibbous","1",22,"Sand",0,2,"17",17,"Protected","Walker Bay",86.43333333,"Summer-Fall","Spring-Summer",NA
+"129","E16","17-05-17",NA,12.67,"WSW","3",18,"1022",1.4,6,"High","2:26:00",68,"Waning gibbous","1",13,"Sand",1,5,"17",17,"Protected","Walker Bay",63.31666667,"Summer-Fall","Fall-Winter",NA
+"130","E17","17-02-13",NA,19,"NNE","20.4",20,"1013",2,7,"Low","4:27:00",93,"Waxing gibbous","1",40,"Sand",0,2,"17",13,"Protected","Walker Bay",65.15,"Summer-Fall","Spring-Summer",NA
+"131","E17","17-05-17",NA,12.67,"SSW","8",19,"1022",1.3,5,"Low","5:46:00",68,"Waning gibbous","1",41,"Sand",1,5,"17",17,"Protected","Walker Bay",69.55,"Summer-Fall","Fall-Winter",NA
+"132","E18","17-05-17",NA,12.67,"SSW","8",19,"1022",1.3,5,"High","5:48:00",68,"Waning gibbous","2",37,"Rocky reef",1,5,"17",17,"Protected","Walker Bay",67.01666667,"Summer-Fall","Fall-Winter",NA
+"133","E18","18-06-12",NA,16.1,"N","10",4,"1030",0.3,1,"Low","0:21:00",5,"Waning crescent","2",39,"Sand",0,6,"18",12,"Protected","Walker Bay",62.73333333,"Winter-Spring","Fall-Winter",NA
+"134","E19","17-02-17",NA,16,"SSW","18",29,"1013",2,0,"Low","0:44:00",65,"Waning gibbous","2",33,"Sand",0,2,"17",17,"Protected","Walker Bay",58.16666667,"Summer-Fall","Spring-Summer",NA
+"135","E19","17-05-17",NA,12.67,"SSW","8",19,"1022",1.3,5,"High","4:15:00",68,"New moon","2",31,"Sand",0,5,"17",17,"Protected","Walker Bay",64.51666667,"Summer-Fall","Fall-Winter",NA
+"136","E19","18-01-24",NA,15.59,"S","16",21,"1014.98",1,4,"High","4:09:00",33,"First quarter","1",30,"Sand",1,1,"18",24,"Protected","Walker Bay",61.08333333,"Summer-Fall","Spring-Summer",NA
+"137","E2","17-02-24",NA,15.8,"W","14",23,"1010",1,1,"Low","0:49:00",7,"Waning crescent","3",15,"Sand",0,2,"17",24,"Protected","Walker Bay",67.63333333,"Summer-Fall","Spring-Summer",NA
+"138","E2","17-05-17",NA,12.67,"SSW","13",19,"1021",1.6,3,"Low","1:24:00",68,"Waning gibbous","2",15,"Sand",0,5,"17",17,"Protected","Walker Bay",20.73333333,"Summer-Fall","Fall-Winter",NA
+"139","E20","17-02-24",NA,15.8,"W","14",23,"1010",1,1,"Low","1:06:00",7,"Waning crescent","4",28,"Sand",0,2,"17",24,"Protected","Walker Bay",62,"Summer-Fall","Spring-Summer",NA
+"140","E20","17-05-17",NA,12.67,"SSW","8",19,"1022",1.3,5,"High","5:52:00",68,"Waning gibbous","3",27,"Sand",0,5,"17",17,"Protected","Walker Bay",72.61666667,"Summer-Fall","Fall-Winter",NA
+"141","E20","18-06-12",NA,16.1,"N","10",4,"1030",0.3,1,"Low","0:23:00",5,"Waning crescent","2",35,"Rocky reef",1,6,"18",12,"Protected","Walker Bay",63.3,"Winter-Spring","Fall-Winter",NA
+"142","E3","17-02-17",NA,16,"SSW","18",29,"1013",2,0,"Low","0:37:00",65,"Waning gibbous","3",24,"Sand",0,2,"17",17,"Protected","Walker Bay",71.71666667,"Summer-Fall","Spring-Summer",NA
+"143","E3","17-05-17",NA,12.67,"WSW","3",18,"1022",1.4,6,"High","3:56:00",68,"Waning gibbous","2",19,"Sand",0,5,"17",17,"Protected","Walker Bay",54.36666667,"Summer-Fall","Fall-Winter",NA
+"144","E4","17-02-24",NA,15.8,"W","14",23,"1010",1,1,"Low","0:57:00",7,"Waning crescent","4",20,"Sand",0,2,"17",24,"Protected","Walker Bay",61,"Summer-Fall","Spring-Summer",NA
+"145","E4","17-05-17",NA,12.67,"SSW","13",19,"1021",1.6,3,"Low","1:18:00",68,"Waning gibbous","2",19,"Sand",0,5,"17",17,"Protected","Walker Bay",56.33333333,"Summer-Fall","Fall-Winter",NA
+"146","E5","17-02-13",NA,19,"NNE","20.4",20,"1014",2,7,"Low","5:55:00",93,"Waxing gibbous","1",33,"Sand",0,2,"17",13,"Protected","Walker Bay",45.75,"Summer-Fall","Spring-Summer",NA
+"147","E5","17-05-26",NA,13.68,"NW","18",15,"1016",2.2,4,"Low","0:44:00",0,"New moon","1",33,"Sand",0,5,"17",26,"Protected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"148","E5","18-06-12",NA,15.08,"NNE","4",12,"1028",2.4,1,"Low","2:36:00",11,"Waning crescent","3",31,"Sand",0,6,"18",12,"Protected","Walker Bay",64.9,"Winter-Spring","Fall-Winter",NA
+"149","E6","17-02-17",NA,16,"SSW","18",29,"1013",2,0,"Low","0:25:00",65,"Waning gibbous","2",30,"Sand",0,2,"17",17,"Protected","Walker Bay",48.71666667,"Summer-Fall","Spring-Summer",NA
+"150","E6","17-05-17",NA,12.67,"SSW","8",19,"1022",1.3,5,"High","4:53:00",68,"Waning gibbous","2",26,"Sand",0,5,"17",17,"Protected","Walker Bay",37.03333333,"Summer-Fall","Fall-Winter",NA
+"151","E6","18-01-24",NA,15.59,"S","12",19,"1014.7",1,5,"High","2:48:00",33,"First quarter","3",38,"Sand",0,1,"18",24,"Protected","Walker Bay",62.73333333,"Summer-Fall","Spring-Summer",NA
+"152","E7","17-05-17",NA,12.67,"WSW","3",18,"1022",1.4,6,"High","3:58:00",68,"Waning gibbous","2",25,"Sand",0,5,"17",17,"Protected","Walker Bay",57.25,"Summer-Fall","Fall-Winter",NA
+"153","E7","18-01-24",NA,15.59,"S","12",19,"1014.7",1,5,"High","2:28:00",33,"First quarter","2",32,"Sand",0,1,"18",24,"Protected","Walker Bay",61.56666667,"Summer-Fall","Spring-Summer",NA
+"154","E8","17-02-17",NA,16,"S","11",29,"1014",1.8,0,"High","5:17:00",65,"Waning gibbous","1",27,"Sand",0,2,"17",17,"Protected","Walker Bay",67.48333333,"Summer-Fall","Spring-Summer",NA
+"155","E8","17-05-15",NA,14.54,"NNE","11",14,"1018",1.2,1,"High","3:32:00",84,"Waning gibbous","1",30,"Sand",0,5,"17",15,"Protected","Walker Bay",78.2,"Summer-Fall","Fall-Winter",NA
+"156","E9","17-02-17",NA,16,"S","11",29,"1014",1.8,0,"High","5:15:00",65,"Waning gibbous","2",18,"Sand",0,2,"17",17,"Protected","Walker Bay",61.86666667,"Summer-Fall","Spring-Summer",NA
+"157","E9","17-05-15",NA,14.54,"NNE","11",14,"1018",1.2,1,"High","3:29:00",84,"Waning gibbous","2",21,"Sand",0,5,"17",15,"Protected","Walker Bay",69.15,"Summer-Fall","Fall-Winter",NA
+"158","E9","18-01-24",NA,18,"S","5",24,"1008",1.3,1,"Low","3:10:00",24,"Waning crescent","2",26,"Sand",0,1,"18",24,"Protected","Walker Bay",62.23333333,"Summer-Fall","Spring-Summer",NA
+"159","F1","17-02-07",NA,19,"SSE","26",28,"1013",2.3,1,"Low","5:41:00",81,"Waxing gibbous","1",7,"Sand",1,2,"17",7,"Protected","Walker Bay",61.43333333,"Summer-Fall","Spring-Summer",NA
+"160","F1","17-05-13",NA,15,"E","13.2",15.8,"1023",NA,4,"High","0:38:00",94,"Waning gibbous","1",8,"Sand",0,5,"17",13,"Protected","Walker Bay",64.73333333,"Summer-Fall","Fall-Winter",NA
+"161","F10","17-02-24",NA,15.8,"W","14",23,"1010",1,1,"Low","0:34:00",7,"Waning crescent","3",35,"Rocky reef",1,2,"17",24,"Protected","Walker Bay",65.05,"Summer-Fall","Spring-Summer",NA
+"162","F10","17-07-28",NA,14.57,"NNW","19",19,"1017",2.5,0,"High","3:17:00",28,"Waxing crescent","2",38,"Sand",1,7,"17",28,"Protected","Walker Bay",65.86666667,"Winter-Spring","Fall-Winter",NA
+"163","F10","18-02-14",NA,13.69,"SW","12",25,"1012.09",1.3,3,"Low","0:57:00",1,"Waning crescent","4",38,"Sand",0,2,"18",14,"Protected","Walker Bay",61.05,"Summer-Fall","Spring-Summer",NA
+"164","F11","17-05-26",NA,13.68,"NW","18",15,"1016",2.2,4,"Low","0:48:00",0,"New moon","1",19,"Sand",0,5,"17",26,"Protected","Walker Bay",50.31666667,"Summer-Fall","Fall-Winter",NA
+"165","F11","18-02-14",NA,13.69,"SW","14",27,"1011.79",1.3,5,"Low","2:16:00",1,"Waning crescent","2",19,"Sand",0,2,"18",14,"Protected","Walker Bay",62.5,"Summer-Fall","Spring-Summer",NA
+"166","F12","17-02-13",NA,19,"NNE","20.4",20,"1014",2,7,"High","1:17:00",93,"Waxing gibbous","1",12,"Sand",0,2,"17",13,"Protected","Walker Bay",31.26666667,"Summer-Fall","Spring-Summer",NA
+"167","F12","17-05-26",NA,13.68,"NW","18",15,"1016",2.2,4,"Low","0:42:00",0,"New moon","1",9,"Sand",0,5,"17",26,"Protected","Walker Bay",68.36666667,"Summer-Fall","Fall-Winter",NA
+"168","F13","17-02-13",NA,19,"NNE","18.5",19,"1015",1.9,7,"High","1:25:00",93,"Waxing gibbous","1",14,"Sand",0,2,"17",13,"Protected","Walker Bay",48.86666667,"Summer-Fall","Spring-Summer",NA
+"169","F13","17-05-23",NA,13.05,"W","14",23,"1012",1.1,2,"Low","4:15:00",10,"Waning crescent","1",10,"Sand",0,5,"17",23,"Protected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"170","F13","18-02-14",NA,12.7,"SW","14",27,"1011.79",1.3,5,"Low","2:21:00",1,"New moon","2",14,"Sand",1,2,"18",14,"Protected","Walker Bay",65.23333333,"Summer-Fall","Spring-Summer",NA
+"171","F14","17-02-01",NA,17.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1",24,"Sand",0,2,"17",1,"Protected","Walker Bay",73.25,"Summer-Fall","Spring-Summer",NA
+"172","F14","17-07-28",NA,15.1,"NW","25",25,"1017",2.5,0,"Low","0:06:00",28,"Waxing crescent","2",25,"Sand",0,7,"17",28,"Protected","Walker Bay",65.16666667,"Winter-Spring","Fall-Winter",NA
+"173","F15","17-02-07",NA,19,"SSW","19",23,"1014",2,6,"Low","5:35:00",81,"Waxing gibbous","1",5,"Sand",0,2,"17",7,"Protected","Walker Bay",59.53333333,"Summer-Fall","Spring-Summer",NA
+"174","F17","17-02-24",NA,15.8,"W","14",23,"1010",1,1,"Low","2:47:00",7,"Waning crescent","3",20,"Rocky reef",1,2,"17",24,"Protected","Walker Bay",64.46666667,"Summer-Fall","Spring-Summer",NA
+"175","F17","17-05-13",NA,15,"ENE","16.2",15.8,"1023",NA,4,"High","5:18:00",94,"Waning gibbous","2",32,"Rocky reef",1,5,"17",13,"Protected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"176","F18","17-05-26",NA,13.68,"NW","18",15,"1016",2.2,4,"Low","0:53:00",0,"New Moon","1",20,"Sand",0,5,"17",26,"Protected","Walker Bay",73.45,"Summer-Fall","Fall-Winter",NA
+"177","F18","18-02-14",NA,13,"SW","14",27,"1011.79",1.3,5,"Low","2:12:00",1,"New moon","3",29,"Sand",0,2,"18",14,"Protected","Walker Bay",65.68333333,"Summer-Fall","Spring-Summer",NA
+"178","F19","17-02-01",NA,19,"SSE","16",24,"1012",1.4,0,"High","6:02:00",18,"Waning Crescent","2",40,"Sand",0,2,"17",1,"Protected","Walker Bay",26.16666667,"Summer-Fall","Spring-Summer",NA
+"179","F19","17-05-23",NA,13.05,"W","21",24,"1010",1.4,1,"High","0:14:00",10,"Waning crescent","1",20,"Sand",0,5,"17",23,"Protected","Walker Bay",60,"Summer-Fall","Fall-Winter",NA
+"180","F19","17-11-01",NA,16,"ESE","9.36",18.9,"1010",NA,NA,"Low","2:39:00",91,"Waxing gibbous","1",27,"Sand",0,11,"17",1,"Protected","Walker Bay",75.33333333,"Winter-Spring","Spring-Summer",NA
+"181","F19","18-06-05",NA,16.1,"E","3",13,"1024",1.8,1,"High","2:54:00",66,"Waning gibbous","1",27,"Sand",0,6,"18",5,"Protected","Walker Bay",58.35,"Winter-Spring","Fall-Winter",NA
+"182","F2","17-02-01",NA,17.8,"SSE","16",24,"1012",1.4,0,"High","5:57:00",18,"Waxing crescent","2",40,"Sand",0,2,"17",1,"Protected","Walker Bay",27.76666667,"Summer-Fall","Spring-Summer",NA
+"183","F2","17-05-23",NA,13.05,"W","21",24,"1010",1.4,1,"High","0:12:00",10,"Waning crescent","1",36,"Sand",0,5,"17",23,"Protected","Walker Bay",59.83333333,"Summer-Fall","Fall-Winter",NA
+"184","F2","18-02-06",NA,14.6,"NW","22",27,"1010",1.2,4,"High","3:06:00",66,"Waning gibbous","1",35,"Sand",0,2,"18",6,"Protected","Walker Bay",62.45,"Summer-Fall","Spring-Summer",NA
+"185","F2","18-06-05",NA,15.8,"E","3",13,"1024",1.8,1,"High","2:42:00",66,"Waning gibbous","1",29.2,"Sand",0,6,"18",5,"Protected","Walker Bay",61.93333333,"Winter-Spring","Fall-Winter",NA
+"186","F20","17-02-07",NA,19,"SSW","13",23,"1014",2,6,"Low","3:50:00",81,"Waxing gibbous","1",47,"Sand",0,2,"17",7,"Protected","Walker Bay",66.78333333,"Summer-Fall","Spring-Summer",NA
+"187","F20","17-07-28",NA,14.6,"NNW","15",15,"1017",2.7,0,"High","3:10:00",28,"Waxing crescent","3",50,"Rocky reef",2,7,"17",28,"Protected","Walker Bay",65.51666667,"Winter-Spring","Fall-Winter",NA
+"188","F20","18-02-14",NA,12.6,"SW","12",25,"1012.09",1.3,3,"Low","0:48:00",1,"New moon","4",42,"Sand",1,2,"18",14,"Protected","Walker Bay",59.78333333,"Summer-Fall","Spring-Summer",NA
+"189","F20","18-04-13",NA,13.9,"NW","13",16,"1018",0.8,8,"Low","1:29:00",8,"Waning crescent","3",37,"Rocky reef",1,4,"18",13,"Protected","Walker Bay",61.28333333,"Summer-Fall","Fall-Winter",NA
+"190","F20","18-06-12",NA,16.1,"NNW","18",17,"1028",0.3,1,"Low","3:30:00",5,"Waning crescent","2",50,"Rocky reef",1,6,"18",12,"Protected","Walker Bay",65.88333333,"Winter-Spring","Fall-Winter",NA
+"191","F3","17-02-01",NA,17.8,"SSE","16",24,"1012",1.4,0,"High","5:41:00",18,"Waxing crescent","2",40,"Sand",0,2,"17",1,"Protected","Walker Bay",61.8,"Summer-Fall","Spring-Summer",NA
+"192","F3","17-11-01",NA,16,"SSE","6.8",19.9,"1010",NA,1,"Low","2:21:00",91,"Waxing gibbous","2",45,"Sand",0,11,"17",1,"Protected","Walker Bay",83.16666667,"Winter-Spring","Spring-Summer",NA
+"193","F3","18-02-06",NA,14.4,"NW","22",27,"1010",1.2,4,"High","3:02:00",66,"Waning gibbous","1",33,"Sand",0,2,"18",6,"Protected","Walker Bay",61.26666667,"Summer-Fall","Spring-Summer",NA
+"194","F3","18-04-13",NA,11.5,"NW","13",16,"1018",0.8,8,"High","0:00:00",6,"Waning crescent","3",31,"Sand",0,4,"18",13,"Protected","Walker Bay",61.83333333,"Summer-Fall","Fall-Winter",NA
+"195","F3","18-05-04",NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1",35,"Sand",0,5,"18",4,"Protected","Walker Bay",62.76666667,"Summer-Fall","Fall-Winter",NA
+"196","F5","17-02-24",NA,15.8,"W","19",26,"1010",1,1,"Low","2:53:00",7,"Waning crescent","4",27,"Sand",0,2,"17",24,"Protected","Walker Bay",68.6,"Summer-Fall","Spring-Summer",NA
+"197","F5","17-11-01",NA,16,"SE","7.2",18.7,"1010",NA,1,"Low","2:17:00",91,"Waxing gibbous","1",40,"Sand",0,11,"17",1,"Protected","Walker Bay",65.26666667,"Winter-Spring","Spring-Summer",NA
+"198","F6","17-02-01",NA,19,"SE","13",22,"1012",1.5,0,"High","3:45:00",18,"Waxing crescent","1",29,"Sand",0,2,"17",1,"Protected","Walker Bay",86.45,"Summer-Fall","Spring-Summer",NA
+"199","F6","17-05-13",NA,15,"ENE","16.2",15.8,"1023",NA,4,"High","5:22:00",94,"Waning gibbous","1",30,"Sand",0,5,"17",13,"Protected","Walker Bay",23.78333333,"Summer-Fall","Fall-Winter",NA
+"200","F7","17-02-07",NA,19,"SSW","13",23,"1014",2,6,"Low","3:43:00",81,"Waxing gibbous","2",50,"Rocky reef",4,2,"17",7,"Protected","Walker Bay",60.3,"Summer-Fall","Spring-Summer",NA
+"201","F7","17-07-28",NA,15.1,"NNW","19",19,"1017",2.5,0,"High","3:24:00",28,"Waxing crescent","2",40,"Rocky reef",3,7,"17",28,"Protected","Walker Bay",65.68333333,"Winter-Spring","Fall-Winter",NA
+"202","F7","18-02-14",NA,13.69,"SW","12",25,"1012.09",1.3,3,"Low","0:52:00",1,"Waning Crescent","4",42,"Sand",0,2,"18",14,"Protected","Walker Bay",60.53333333,"Summer-Fall","Spring-Summer",NA
+"203","F7","18-04-13",NA,13.8,"NW","13",16,"1018",0.8,8,"Low","0:15:00",6,"Waning crescent","3",36,"Rocky reef",3,4,"18",13,"Protected","Walker Bay",61.25,"Summer-Fall","Fall-Winter",NA
+"204","F7","18-06-12",NA,16.1,"NNW","18",17,"1028",0.3,1,"Low","3:27:00",5,"Waning crescent","2",39,"Rocky reef",2,6,"18",12,"Protected","Walker Bay",65.51666667,"Winter-Spring","Fall-Winter",NA
+"205","F8","17-02-01",NA,17.8,"E","11",19,"1013",1.5,0,"High","3:32:00",18,"Waning crescent","2",35,"Rocky reef",1,2,"17",1,"Protected","Walker Bay",69.86666667,"Summer-Fall","Spring-Summer",NA
+"206","F8","17-02-24",NA,15.8,"W","14",23,"1010",1,1,"Low","2:42:00",7,"Waning crescent","3",27,"Sand",0,2,"17",24,"Protected","Walker Bay",65.83333333,"Summer-Fall","Spring-Summer",NA
+"207","F8","17-07-28",NA,15.1,"NW","19",19,"1017",2.5,0,"Low","4:51:00",28,"Waxing crescent","1",38,"Sand",1,7,"17",28,"Protected","Walker Bay",62.96666667,"Winter-Spring","Fall-Winter",NA
+"208","F8","18-02-14",NA,13.69,"SW","14",27,"1011.79",1.3,5,"Low","3:50:00",1,"Waning crescent","3",40,"Sand",1,2,"18",14,"Protected","Walker Bay",59.73333333,"Summer-Fall","Spring-Summer",NA
+"209","F8","18-06-12",NA,16.1,"NW","18",16,"1026",0.3,1,"Low","5:00:00",5,"Waning crescent","2",39,"Rocky reef",1,6,"18",12,"Protected","Walker Bay",50.4,"Winter-Spring","Fall-Winter",NA
+"210","F9","17-02-07",NA,19,"SSW","13",23,"1014",2,6,"Low","3:29:00",81,"Waxing gibbous","3",50,"Sand",0,2,"17",7,"Protected","Walker Bay",33.28333333,"Summer-Fall","Spring-Summer",NA
+"211","F9","17-07-28",NA,15,"NNW","19",1017,"2.5",0,NA,"High","3:06:00",28,"Waxing crescent","2",50,"Sand",0,7,"17",28,"Protected","Walker Bay",49.13333333,"Winter-Spring","Fall-Winter",NA
+"212","F9","18-02-06",NA,14.3,"WSW","10",18,"1014",1.8,6,"High","4:16:00",95,"Waning gibbous","1",50,"Rocky reef",1,2,"18",6,"Protected","Walker Bay",59.86666667,"Summer-Fall","Spring-Summer",NA
+"213","F9","18-06-12",NA,16.1,"N","15",11,"1030",0.3,1,"Low","2:03:00",5,"Waning crescent","2",42,"Sand",1,6,"18",12,"Protected","Walker Bay",66.68333333,"Winter-Spring","Fall-Winter",NA
+"214","G1","16-09-19",NA,15.4,"NE","3",16,"1023",1.6,1,"High","5:20:00",93,"Waning gibbous","4",30,"Sand",0,9,"16",19,"Unprotected","Walker Bay",55.98333333,"Winter-Spring","Spring-Summer",NA
+"215","G2","16-09-19",NA,15.4,"NE","3",16,"1023",1.6,0,"High","5:20:00",93,"Waning gibbous","3",18,"Rocky reef",3,9,"16",19,"Unprotected","Walker Bay",58.75,"Winter-Spring","Spring-Summer",NA
+"216","G3","16-09-19",NA,15.4,"NE","3",16,"1023",1.6,1,"High","5:20:00",93,"Waning gibbous","4",23,"Sand",0,9,"16",19,"Unprotected","Walker Bay",56.66666667,"Winter-Spring","Spring-Summer",NA
+"217","G5","16-09-19",NA,15.4,"NE","13",16,"1021",1.6,1,"Low","1:15:00",93,"Waning gibbous","2",22,"Rocky reef",2,9,"16",19,"Unprotected","Walker Bay",54.45,"Winter-Spring","Spring-Summer",NA
+"218","G6","16-09-19",NA,15.4,"NE","13",16,"1021",1.6,1,"Low","1:15:00",93,"Waning gibbous","3",15,"Sand",0,9,"16",19,"Unprotected","Walker Bay",31.55,"Winter-Spring","Spring-Summer",NA
+"219","Kelp1","18-03-01",NA,16,"SSW","7.2",20.1,"1016",NA,5,"Low","2:03:00",100,"Full","2",6,"Kelp",3,3,"18",1,"Protected","Walker Bay",59.45,"Summer-Fall","Fall-Winter",NA
+"220","Kelp1","18-05-04",NA,17,"E","0",19.5,"1013",NA,0,"High","4:40:00",82,"Waning gibbous","3",7,"Kelp",2,5,"18",4,"Protected","Walker Bay",64.11666667,"Summer-Fall","Fall-Winter",NA
+"221","Kelp1","18-06-05",NA,16.1,"NNW","13",20,"1019",2.3,1,"High","3:35:00",57,"Waning gibbous","4",3,"Kelp",1,6,"18",5,"Protected","Walker Bay",62.53333333,"Winter-Spring","Fall-Winter",NA
+"222","Kelp2","18-03-01",NA,16,"SSW","7.2",20.1,"1016",NA,NA,"Low","3:13:00",100,"Full","2",10,"Kelp",4,3,"18",1,"Protected","Walker Bay",53.61666667,"Summer-Fall","Fall-Winter",NA
+"223","Kelp2","18-06-05",NA,16.1,"E","3",13,"1024",1.8,1,"High","3:10:00",66,"Waning gibbous","4",6,"Kelp",3,6,"18",5,"Protected","Walker Bay",63.83333333,"Winter-Spring","Fall-Winter",NA
+"224","Kelp3","17-07-12",NA,15,"SE","8.82",31.5,"1007",NA,3,"Low","2:11:00",90,"Waning gibbous","3",10,"Kelp",1,7,"17",12,"Unprotected","Walker Bay",61,"Winter-Spring","Fall-Winter",NA
+"225","Kelp3","18-03-01",NA,16,"SSW","7.2",20.1,"1016",NA,NA,"Low","3:16:00",100,"Full","2",19,"Kelp",3,3,"18",1,"Unprotected","Walker Bay",56.45,"Summer-Fall","Fall-Winter",NA
+"226","Kelp3","18-05-04",NA,17,"E","0",20,"1013",NA,NA,"Low","0:02:00",82,"Waning gibbous","3",11,"Kelp",3,5,"18",4,"Unprotected","Walker Bay",58.63333333,"Summer-Fall","Fall-Winter",NA
+"227","Kelp3","18-06-05",NA,16.2,"E","3",19,"1023",1.8,1,"High","4:46:00",66,"Waning gibbous","3",6,"Kelp",3,6,"18",5,"Unprotected","Walker Bay",38.5,"Winter-Spring","Fall-Winter",NA
+"228","Kelp4","17-07-12",NA,15,"ESE","9.2",31.2,"1007",NA,4,"Low","2:03:00",90,"Waning gibbous","3",6,"Kelp",1,7,"17",12,"Unprotected","Walker Bay",42.83333333,"Winter-Spring","Fall-Winter",NA
+"229","Kelp4","18-03-01",NA,16,"SSW","7.2",20.1,"1016",NA,1,"Low","3:22:00",100,"Full","3",10,"Kelp",3,3,"18",1,"Unprotected","Walker Bay",56.76666667,"Summer-Fall","Fall-Winter",NA
+"230","Kelp4","18-05-04",NA,17,"E","0",20,"1013",NA,NA,"Low","0:06:00",82,"Waning gibbous","3",7,"Kelp",2,5,"18",4,"Unprotected","Walker Bay",55.25,"Summer-Fall","Fall-Winter",NA
+"231","Kelp4","18-06-05",NA,16.7,"E","3",19,"1023",1.8,1,"High","5:01:00",66,"Waning gibbous","1",5,"Kelp",1,6,"18",5,"Unprotected","Walker Bay",30.76666667,"Winter-Spring","Fall-Winter",NA
+"232","Y1","16-07-27",NA,15.2,"W","11.1",15,"1013",2.2,0,NA,NA,45,"Last Quarter","4",44,"Sand",0,7,"16",27,"Unprotected","Walker Bay",61.95,"Winter-Spring","Fall-Winter",NA
+"233","Y2","16-07-27",NA,15,"W","11.1",15,"1013",2.2,0,"High","2:58:00",45,"Last quarter","3",44,"Rocky reef",1,7,"16",27,"Unprotected","Walker Bay",28.81666667,"Winter-Spring","Fall-Winter",NA
+"234","Y3","16-07-27",NA,15,"W","11.1",15,"1013",2.2,0,"High","3:08:00",45,"Last quarter","3",41,"Rocky reef",1,7,"16",27,"Unprotected","Walker Bay",61.26666667,"Winter-Spring","Fall-Winter",NA
+"235","Y4","16-07-27",NA,13.4,"W","11.1",15,"1013",2.2,0,"High","3:17:00",45,"Last Quarter","3",42,"Rocky reef",1,7,"16",27,"Unprotected","Walker Bay",61.05,"Winter-Spring","Fall-Winter",NA
+"236","Y5","16-07-27",NA,14.8,"W","11.1",15,"1013",2.2,0,"High","0:42:00",45,"Last Quarter","2",43,"Sand",1,7,"16",27,"Unprotected","Walker Bay",61.06666667,"Winter-Spring","Fall-Winter",NA
+"237","Y6","16-07-27",NA,16.5,"WNW","13",16,"1013",2.2,0,"High","4:40:00",45,"Last quarter","3",44,"Sand",0,7,"16",27,"Unprotected","Walker Bay",15.31666667,"Winter-Spring","Fall-Winter",NA
+"238","Y7","16-07-27",NA,13.6,"WNW","13",16,"1013",2.2,0,"High","4:47:00",45,"Last quarter","3",44,"Sand",0,7,"16",27,"Unprotected","Walker Bay",49.23333333,"Winter-Spring","Fall-Winter",NA
+"239","Y8","16-07-27",NA,15.2,"WNW","13",16,"1013",2.2,0,NA,NA,45,"Last quarter","2",44,"Sand",0,7,"16",27,"Unprotected","Walker Bay",45.31666667,"Winter-Spring","Fall-Winter",NA
+"240","Y9","16-07-27",NA,15.2,"WNW","13",16,"1013",2.2,0,"High","2:22:00",45,"Last quarter","2",45,"Sand",0,7,"16",27,"Unprotected","Walker Bay",51.71666667,"Winter-Spring","Fall-Winter",NA
+"241","BB10","17-03-01",NA,14,"ESE","16.7",19,"1017",2,0,"High","5:36:00",7,"Waxing crescent","4",12.1,"Kelp",4,3,"17",1,"Protected","Betty's Bay",62.51666667,"Summer-Fall","Fall-Winter",NA
+"242","BB10","17-10-30",NA,16,"ESE","20",27,"1015",NA,2,"High","0:26:00",75,"Waxing gibbous","3",16,"Kelp",1,10,"17",30,"Protected","Betty's Bay",66.68333333,"Winter-Spring","Spring-Summer",NA
+"243","BB10","18-03-20",NA,14.5,"SSE","17",NA,"1012.3",NA,1,"Low","1:16:00",10,"Waxing crescent","3",13.8,"Kelp",1,3,"18",20,"Protected","Betty's Bay",81.11666667,"Summer-Fall","Fall-Winter",NA
+"244","BB10","18-07-10",NA,14.7,"SE","6",NA,"1022.7",NA,1,"Low","3:58:00",11,"Waning crescent","2",12,"Kelp",4,7,"18",10,"Protected","Betty's Bay",61.26666667,"Winter-Spring","Fall-Winter",NA
+"245","BB12","17-03-11",NA,13,"WNW","3.7",21,"1012",2,0,"Low","0:12:00",98,"Waxing gibbous","3",5.7,"Kelp",4,3,"17",11,"Protected","Betty's Bay",69.36666667,"Summer-Fall","Fall-Winter",NA
+"246","BB12","17-10-30",NA,16.4,"SE","19",29,"1014",NA,2,"High","1:56:00",75,"Waxing gibbous","2",5.5,"Rocky reef",3,10,"17",30,"Protected","Betty's Bay",76.01666667,"Winter-Spring","Spring-Summer",NA
+"247","BB12","18-05-06",NA,17.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"3",7,"Kelp",2,5,"18",6,"Protected","Betty's Bay",60.26666667,"Summer-Fall","Fall-Winter",NA
+"248","BB16","17-03-11",NA,14,"WNW","25.9",20,"1012",2,0,"Low","4:32:00",98,"Waxing gibbous","3",18.3,"Rocky reef",3,3,"17",11,"Unprotected","Betty's Bay",71.25,"Summer-Fall","Fall-Winter",NA
+"249","BB16","18-03-23",NA,16.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"3",11,"Rocky reef",3,3,"18",23,"Unprotected","Betty's Bay",62.35,"Summer-Fall","Fall-Winter",NA
+"250","BB16","18-07-10",NA,15.1,"SSE","6",5,"1029",2,1,"Low","2:00:00",11,"Waning crescent","2",10,"Rocky reef",2,7,"18",10,"Unprotected","Betty's Bay",67.8,"Winter-Spring","Fall-Winter",NA
+"251","BB17","17-03-16",NA,16,"SSW","4",22,"1014",2.1,1,"High","4:38:00",85,"Waning gibbous","3",29.4,"Rocky reef",1,3,"17",16,"Protected","Betty's Bay",67.6,"Summer-Fall","Fall-Winter",NA
+"252","BB17","17-07-24",NA,14.9,"NNE","8",9,"1028",1.8,1,"Low","1:28:00",0,"New Moon","2",29.6,"Rocky reef",3,7,"17",24,"Protected","Betty's Bay",66.61666667,"Winter-Spring","Fall-Winter",NA
+"253","BB17","18-03-23",NA,16.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"3",33,"Rocky reef",1,3,"18",23,"Protected","Betty's Bay",40.06666667,"Summer-Fall","Fall-Winter",NA
+"254","BB17","18-07-09",NA,14,"NW","19",NA,"1021.3",NA,1,"Low","5:31:00",19,"Waning crescent","1",35,"Rocky reef",2,7,"18",9,"Protected","Betty's Bay",55.26666667,"Winter-Spring","Fall-Winter",NA
+"255","BB18","17-03-02",NA,13,"ESE","22.5",19,"1008",2,0,"High","2:46:00",18,"Waxing crescent","4",28.8,"Rocky reef",4,3,"17",2,"Unprotected","Betty's Bay",61.11666667,"Summer-Fall","Fall-Winter",NA
+"256","BB18","17-10-11",NA,14.7,"WSW","12",13,"1015",1.4,0,"High","2:19:00",62,"Waning gibbous","4",28.5,"Sand",0,10,"17",11,"Unprotected","Betty's Bay",66.03333333,"Winter-Spring","Spring-Summer",NA
+"257","BB18","18-07-10",NA,15.3,"10","SSW",NA,"1022.7",NA,NA,"Low","5:06:00",11,"Waning crescent","2",29,"Rocky reef",1,7,"18",10,"Unprotected","Betty's Bay",66.25,"Winter-Spring","Fall-Winter",NA
+"258","BB24","17-03-11",NA,13,"NW","33",20,"1011",2,0,"Low","3:16:00",98,"Waxing gibbous","4",23.8,"Sand",0,3,"17",11,"Unprotected","Betty's Bay",69.98333333,"Summer-Fall","Fall-Winter",NA
+"259","BB24","17-07-31",NA,14.7,"NW","19",27,"1011",1.9,3,"High","2:12:00",53,"First Quarter","1",15,"Sand",0,7,"17",31,"Unprotected","Betty's Bay",83.56666667,"Winter-Spring","Fall-Winter",NA
+"260","BB24","18-03-20",NA,14.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"3",24.3,"Sand",0,3,"18",20,"Unprotected","Betty's Bay",65.26666667,"Summer-Fall","Fall-Winter",NA
+"261","BB24","18-07-10",NA,12.4,"SE","1.9",5,"1029",2,4,"Low","2:10:00",11,"Waning crescent","3",22,"Rocky reef",2,7,"18",10,"Unprotected","Betty's Bay",66.5,"Winter-Spring","Fall-Winter",NA
+"262","BB28","17-03-03",NA,16,"W","29.6",19,"1012",1.6,7,"High","2:35:00",24,"Waxing crescent","2",31.6,"Rocky reef",2,3,"17",3,"Unprotected","Betty's Bay",66.11666667,"Summer-Fall","Fall-Winter",NA
+"263","BB28","17-10-30",NA,16.6,"E","21",23,"1016",NA,3,"Low","5:10:00",75,"Waxing gibbous","3",32.9,"Sand",0,10,"17",30,"Unprotected","Betty's Bay",71.45,"Winter-Spring","Spring-Summer",NA
+"264","BB28","18-03-20",NA,14.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2",33,"Rocky reef",2,3,"18",20,"Unprotected","Betty's Bay",62.5,"Summer-Fall","Fall-Winter",NA
+"265","BB28","18-07-09",NA,14.8,"NW","17",NA,"1021.3",2.2,NA,"Low","4:41:00",19,"Waning crescent","1",32,"Rocky reef",2,7,"18",9,"Unprotected","Betty's Bay",60.61666667,"Winter-Spring","Fall-Winter",NA
+"266","BB29","17-03-03",NA,15,"W","29.6",19,"1012",1.6,7,"High","2:29:00",24,"Waxing crescent","2",28.3,"Rocky reef",3,3,"17",3,"Unprotected","Betty's Bay",64.41666667,"Summer-Fall","Fall-Winter",NA
+"267","BB29","17-07-24",NA,14.7,"NNE","8",9,"1028",1.8,1,"Low","0:39:00",0,"New moon","3",26,"Rocky reef",2,7,"17",24,"Unprotected","Betty's Bay",67.48333333,"Winter-Spring","Fall-Winter",NA
+"268","BB29","18-03-20",NA,14.6,"SW","0",20,"1014.2",NA,1,"High","4:02:00",10,"Waxing crescent","3",27,"Rocky reef",1,3,"18",20,"Unprotected","Betty's Bay",62.55,"Summer-Fall","Fall-Winter",NA
+"269","BB29","18-07-09",NA,14.9,"NW","17",NA,"1021.3",2.2,NA,"Low","4:35:00",19,"Waning crescent","1",27,"Rocky reef",1,7,"18",9,"Unprotected","Betty's Bay",72.56666667,"Winter-Spring","Fall-Winter",NA
+"270","BB3","17-03-01",NA,14,"SE","15",18,"1015",2,0,"High","0:58:00",7,"Waxing crescent","3",16.2,"Rocky reef",2,3,"17",1,"Protected","Betty's Bay",61.81666667,"Summer-Fall","Fall-Winter",NA
+"271","BB3","17-07-31",NA,14.5,"NNW","21",27,"1008",1.9,3,"High","5:08:00",53,"First Quarter","2",18.4,"Sand",0,7,"17",31,"Protected","Betty's Bay",61.65,"Winter-Spring","Fall-Winter",NA
+"272","BB3","18-07-10",NA,12.3,"SE","6",NA,"1022.7",NA,1,"Low","2:10:00",11,"Waning crescent","2",18,"Kelp",2,7,"18",10,"Protected","Betty's Bay",63.48333333,"Winter-Spring","Fall-Winter",NA
+"273","BB36","17-03-03",NA,15,"W","29.6",19,"1012",1.6,7,"High","2:17:00",24,"Waxing crescent","2",18.4,"Sand",0,3,"17",3,"Unprotected","Betty's Bay",66.4,"Summer-Fall","Fall-Winter",NA
+"274","BB36","17-10-30",NA,17.6,"E","21",23,"1016",NA,3,"Low","3:47:00",75,"Waxing gibbous","2",24,"Sand",0,10,"17",30,"Unprotected","Betty's Bay",55.85,"Winter-Spring","Spring-Summer",NA
+"275","BB36","18-03-20",NA,14.6,"SW","3",20,"1014.3",NA,1,"High","5:44:00",10,"Waxing crescent","3",16,"Sand",0,3,"18",20,"Unprotected","Betty's Bay",63.4,"Summer-Fall","Fall-Winter",NA
+"276","BB36","18-07-10",NA,15.1,"SE","1.9",15,"1027",2.1,1,"High","0:12:00",11,"Waning crescent","2",19,"Sand",0,7,"18",10,"Unprotected","Betty's Bay",70.71666667,"Winter-Spring","Fall-Winter",NA
+"277","BB38","17-03-01",NA,15,"SE","15",18,"1016",2,0,"High","1:18:00",7,"Waxing crescent","3",28.7,"Rocky reef",2,3,"17",1,"Protected","Betty's Bay",61.68333333,"Summer-Fall","Fall-Winter",NA
+"278","BB38","17-07-24",NA,14.9,"NNW","13",17,"1025",1.8,1,"Low","1:30:00",0,"New moon","4",35,"Rocky reef",2,7,"17",24,"Protected","Betty's Bay",77.25,"Winter-Spring","Fall-Winter",NA
+"279","BB39","18-03-20",NA,15.3,"NW","22",20,"1014.3",NA,1,"Low","2:58:00",10,"Waxing crescent","3",33,"Rocky reef",2,3,"18",20,"Protected","Betty's Bay",56.1,"Summer-Fall","Fall-Winter",NA
+"280","BB40","17-03-02",NA,13,"SE","13",19,"1007",1.9,0,"Low","0:32:00",18,"Waxing crescent","4",29,"Rocky reef",1,3,"17",2,"Protected","Betty's Bay",66.13333333,"Summer-Fall","Fall-Winter",NA
+"281","BB40","18-07-10",NA,14.9,"SE","1.9",15,"1027",2.1,1,"High","0:37:00",11,"Waning crescent","3",43,"Rocky reef",4,7,"18",10,"Protected","Betty's Bay",60.93333333,"Winter-Spring","Fall-Winter",NA
+"282","BB43","17-03-11",NA,13,"WNW","3.7",21,"1012",2,0,"Low","0:02:00",98,"Waxing gibbous","2",23.9,"Rocky reef",4,3,"17",11,"Unprotected","Betty's Bay",68.2,"Summer-Fall","Fall-Winter",NA
+"283","BB43","17-07-24",NA,14.7,"NNE","8",9,"1028",1.8,1,"Low","0:33:00",0,"New moon","4",18,"Rocky reef",1,7,"17",24,"Unprotected","Betty's Bay",68.25,"Winter-Spring","Fall-Winter",NA
+"284","BB43","18-03-20",NA,14.6,"SW","0",20,"1014.3",NA,1,"High","3:54:00",10,"Waxing crescent","2",25.1,"Rocky reef",1,3,"18",20,"Unprotected","Betty's Bay",61.41666667,"Summer-Fall","Fall-Winter",NA
+"285","BB43","18-07-10",NA,15.7,"SE","1.9",15,"1027",2.1,1,"High","0:18:00",11,"Waning crescent","2",22,"Rocky reef",2,7,"18",10,"Unprotected","Betty's Bay",60.68333333,"Winter-Spring","Fall-Winter",NA
+"286","BB46","17-03-03",NA,15,"W","29.6",19,"1012",1.6,7,"Low","2:10:00",24,"Waxing crescent","2",15.3,"Rocky reef",4,3,"17",3,"Unprotected","Betty's Bay",62.35,"Summer-Fall","Fall-Winter",NA
+"287","BB46","17-10-11",NA,14.9,"WSW","12",13,"1015",1.4,0,"High","2:24:00",62,"Waning Gibbous","3",15,"Kelp",1,10,"17",11,"Unprotected","Betty's Bay",73.95,"Winter-Spring","Spring-Summer",NA
+"288","BB46","18-07-09",NA,15.1,"NW","19",NA,"1021.3",NA,NA,"High","1:07:00",19,"Waning crescent","1",14,"Rocky reef",3,7,"18",9,"Unprotected","Betty's Bay",60.83333333,"Winter-Spring","Fall-Winter",NA
+"289","BB48","17-03-01",NA,14,"SE","16.7",19,"1016",2,0,"High","5:45:00",7,"Waxing crescent","4",20.8,"Rocky reef",3,3,"17",1,"Protected","Betty's Bay",63.71666667,"Summer-Fall","Fall-Winter",NA
+"290","BB48","17-10-11",NA,14.6,"WSW","12",13,"1015",1.4,0,"High","3:56:00",62,"Waning gibbous","4",22.4,"Sand",0,10,"17",11,"Protected","Betty's Bay",62.3,"Winter-Spring","Spring-Summer",NA
+"291","BB48","18-07-09",NA,14,"NW","19",NA,"1021.3",NA,NA,"High","1:08:00",19,"Waning crescent","2",17,"Kelp",4,7,"18",9,"Protected","Betty's Bay",45.23333333,"Winter-Spring","Fall-Winter",NA
+"292","BB49","17-03-08",NA,16,"S","13",19,"1012",2.4,5,"High","0:00:00",78,"Waxing gibbous","2",35,"Rocky reef",4,3,"17",8,"Protected","Betty's Bay",80.28333333,"Summer-Fall","Fall-Winter",NA
+"293","BB49","17-10-11",NA,14.7,"WSW","12",13,"1015",1.4,0,"High","2:04:00",62,"Waning gibbous","3",34.5,"Rocky reef",3,10,"17",11,"Protected","Betty's Bay",61.23333333,"Winter-Spring","Spring-Summer",NA
+"294","BB5","17-03-11",NA,13,"WNW","17",21,"1011",2,0,"Low","1:42:00",98,"Waxing gibbous","2",7.2,"Kelp",0,3,"17",11,"Unprotected","Betty's Bay",65.95,"Summer-Fall","Fall-Winter",NA
+"295","BB5","17-10-30",NA,16.8,"ESE","20",27,"1015",NA,2,"High","0:06:00",75,"Waxing Gibbous","2",4.5,"Kelp",2,10,"17",30,"Unprotected","Betty's Bay",69.73333333,"Winter-Spring","Spring-Summer",NA
+"296","BB5","18-03-20",NA,15.1,"SSE","17",1012,NA,NA,1,"Low","1:51:00",10,"Waxing crescent","1",5.6,"Sand",0,3,"18",20,"Unprotected","Betty's Bay",64.86666667,"Summer-Fall","Fall-Winter",NA
+"297","BB5","18-07-10",NA,15,"SE","6",6,"1022.7",NA,1,"Low","3:33:00",11,"Waning crescent","1",8,"Sand",1,7,"18",10,"Unprotected","Betty's Bay",59.88333333,"Winter-Spring","Fall-Winter",NA
+"298","BB50","17-03-11",NA,14,"WNW","29.6",20,"1012",2,0,"Low","2:21:00",98,"Waxing gibbous","3",18,"Rocky reef",2,3,"17",11,"Protected","Betty's Bay",66.86666667,"Summer-Fall","Fall-Winter",NA
+"299","BB50","17-07-24",NA,14.9,"NNW","13",17,"1025",1.8,1,"Low","1:42:00",0,"New moon","4",18,"Rocky reef",1,7,"17",24,"Protected","Betty's Bay",58.63333333,"Winter-Spring","Fall-Winter",NA
+"300","BB50","18-07-10",NA,12.3,"SE","6",NA,"1022.7",NA,1,"Low","2:06:00",11,"Waning crescent","3",17,"Kelp",3,7,"18",10,"Protected","Betty's Bay",61.13333333,"Winter-Spring","Fall-Winter",NA
+"301","BB51","17-03-11",NA,13,"WNW","3.7",21,"1012",2,0,"Low","0:22:00",98,"Waxing gibbous","3",26,"Rocky reef",1,3,"17",11,"Unprotected","Betty's Bay",80.98333333,"Summer-Fall","Fall-Winter",NA
+"302","BB51","18-03-20",NA,15.3,"SW","3",20,"1014.3",NA,1,"High","5:39:00",10,"Waxing crescent","4",25.5,"Sand",0,3,"18",20,"Unprotected","Betty's Bay",67.21666667,"Summer-Fall","Fall-Winter",NA
+"303","BB51","18-07-09",NA,15.1,"NW","19",NA,"1021.3",NA,NA,"High","1:10:00",19,"Waning crescent","1",26,"Sand",0,7,"18",9,"Unprotected","Betty's Bay",62.11666667,"Winter-Spring","Fall-Winter",NA
+"304","BB52","17-03-23",NA,18,"WSW","16",21,"1015",1.5,5,"Low","3:44:00",24,"Waning crescent","2",17,"Sand",0,3,"17",23,"Unprotected","Betty's Bay",61.55,"Summer-Fall","Fall-Winter",NA
+"305","BB52","17-10-11",NA,14.8,"WSW","12",13,"1015",1.4,0,"High","0:20:00",62,"Waning gibbous","2",17.3,"Rocky reef",2,10,"17",11,"Unprotected","Betty's Bay",68.81666667,"Winter-Spring","Spring-Summer",NA
+"306","BB55","17-03-02",NA,19,"SSW","13",19,"1007",1.8,0,"Low","2:14:00",18,"Waxing crescent","3",21,"Rocky reef",3,3,"17",2,"Protected","Betty's Bay",55.56666667,"Summer-Fall","Fall-Winter",NA
+"307","BB55","17-10-11",NA,14.7,"WSW","17",13,"1015",1.5,2,"High","4:10:00",62,"Waning gibbous","2",23.5,"Rocky reef",2,10,"17",11,"Protected","Betty's Bay",79.81666667,"Winter-Spring","Spring-Summer",NA
+"308","BB56","17-03-11",NA,14,"WNW","3.7",21,"1012",2,0,"Low","0:07:00",98,"Waxing gibbous","3",11.2,"Kelp",1,3,"17",11,"Protected","Betty's Bay",60.48333333,"Summer-Fall","Fall-Winter",NA
+"309","BB56","17-10-30",NA,16.3,"ENE","22",18,"1016",NA,3,"Low","3:15:00",75,"Waxing gibbous","4",11.5,"Kelp",1,10,"17",30,"Protected","Betty's Bay",75.16666667,"Winter-Spring","Spring-Summer",NA
+"310","BB56","18-05-06",NA,16.4,NA,NA,NA,NA,NA,NA,NA,NA,76,"Waning gibbous","3",8,"Kelp",3,5,"18",6,"Protected","Betty's Bay",62.05,"Summer-Fall","Fall-Winter",NA
+"311","BB56","18-07-10",NA,15.1,"SE","6",NA,"1022.7",NA,NA,"Low","3:32:00",11,"Waning crescent","3",9,"Kelp",4,7,"18",10,"Protected","Betty's Bay",63.15,"Winter-Spring","Fall-Winter",NA
+"312","BB57","17-03-23",NA,18,"WSW","16",21,"1015",1.7,6,"Low","2:04:00",24,"Waning crescent","3",8.4,"Kelp",4,3,"17",23,"Protected","Betty's Bay",64.65,"Summer-Fall","Fall-Winter",NA
+"313","BB57","17-10-30",NA,16.3,"E","21",23,"1016",NA,3,"Low","4:44:00",75,"Waxing gibbous","4",7.5,"Rocky reef",1,10,"17",30,"Protected","Betty's Bay",68.03333333,"Winter-Spring","Spring-Summer",NA
+"314","BB57","18-03-20",NA,14.3,"NW","22",20,"1014.3",NA,1,"Low","2:34:00",10,"Waxing crescent","2",8.6,"Kelp",2,3,"18",20,"Protected","Betty's Bay",60.4,"Summer-Fall","Fall-Winter",NA
+"315","BB58","17-03-01",NA,14,"ESE","16.7",19,"1017",2,0,"High","5:29:00",7,"Waxing crescent","3",11.7,"Kelp",4,3,"17",1,"Protected","Betty's Bay",61.55,"Summer-Fall","Fall-Winter",NA
+"316","BB58","17-10-30",NA,16.5,"E","21",23,"1016",NA,3,"Low","4:59:00",75,"Waxing gibbous","3",12.3,"Rocky reef",3,10,"17",30,"Protected","Betty's Bay",74.06666667,"Winter-Spring","Spring-Summer",NA
+"317","BB58","18-03-20",NA,14.4,"NW","22",20,"1014.3",NA,1,"Low","2:43:00",10,"Waxing crescent","3",11.3,"Kelp",3,3,"18",20,"Protected","Betty's Bay",60.08333333,"Summer-Fall","Fall-Winter",NA
+"318","BB58","18-07-10",NA,14.7,"SE","6",NA,"1022.7",NA,1,"Low","5:08:00",11,"Waning crescent","2",8,"Kelp",4,7,"18",10,"Protected","Betty's Bay",62.58333333,"Winter-Spring","Fall-Winter",NA
+"319","BB59","17-03-11",NA,14,"WNW","29.6",20,"1012",2,0,"Low","2:31:00",98,"Waxing gibbous","3",11,"Kelp",0,3,"17",11,"Protected","Betty's Bay",68.85,"Summer-Fall","Fall-Winter",NA
+"320","BB59","17-10-30",NA,16.5,"ESE","20",27,"1015",NA,2,"High","0:09:00",75,"Waxing gibbous","3",11,"Kelp",4,10,"17",30,"Protected","Betty's Bay",70.41666667,"Winter-Spring","Spring-Summer",NA
+"321","BB6","17-03-02",NA,13,"ESE","20",19,"1008",1.9,0,"High","3:03:00",18,"Waxing crescent","4",10.4,"Kelp",0,3,"17",2,"Protected","Betty's Bay",72.3,"Summer-Fall","Fall-Winter",NA
+"322","BB6","17-10-30",NA,16.6,"SE","19",29,"1014",NA,2,"High","2:02:00",75,"Waxing gibbous","4",10.4,"Kelp",1,10,"17",30,"Protected","Betty's Bay",83.86666667,"Winter-Spring","Spring-Summer",NA
+"323","BB6","18-05-06",NA,17.1,"S","5.6",17,"1017",NA,NA,NA,NA,65,"Last quarter","3",11.4,"Kelp",3,5,"18",6,"Protected","Betty's Bay",62.31666667,"Summer-Fall","Fall-Winter",NA
+"324","BB6","18-07-10",NA,15.1,"SE","6",NA,"1022.7",NA,1,"Low","3:38:00",11,"Waning crescent","2",10,"Kelp",3,7,"18",10,"Protected","Betty's Bay",62.08333333,"Winter-Spring","Fall-Winter",NA
+"325","BB60","17-03-02",NA,13,"ESE","20.4",19,"1008",1.9,0,"High","4:51:00",18,"Waxing crescent","2",14.1,"Sand",0,3,"17",2,"Protected","Betty's Bay",56.28333333,"Summer-Fall","Fall-Winter",NA
+"326","BB60","17-10-30",NA,16.4,"E","21",23,"1016",NA,3,"Low","4:50:00",75,"Waxing gibbous","3",13.9,"Rocky reef",4,10,"17",30,"Protected","Betty's Bay",69.26666667,"Winter-Spring","Spring-Summer",NA
+"327","BB60","18-03-20",NA,14.3,"NW","22",20,"1014.3",NA,1,"Low","2:38:00",10,"Waxing crescent","3",15.1,"Rocky reef",2,3,"18",20,"Protected","Betty's Bay",62.1,"Summer-Fall","Fall-Winter",NA
+"328","BB60","18-07-10",NA,14.7,"SE","6",NA,"1022.7",NA,1,"Low","5:03:00",11,"Waning crescent","1",7,"Sand",0,7,"18",10,"Protected","Betty's Bay",63.55,"Winter-Spring","Fall-Winter",NA
+"329","BB61","17-03-01",NA,14,"ESE","16.7",19,"1017",2,0,"High","5:19:00",7,"Waxing crescent","3",24.5,"Rocky reef",2,3,"17",1,"Protected","Betty's Bay",63.1,"Summer-Fall","Fall-Winter",NA
+"330","BB61","17-10-30",NA,16.5,"E","21",23,"1016",NA,3,"Low","4:55:00",75,"Waxing gibbous","4",25.3,"Rocky reef",4,10,"17",30,"Protected","Betty's Bay",68.41666667,"Winter-Spring","Spring-Summer",NA
+"331","BB62","17-03-08",NA,17,"S","14.8",19,"1012",2.3,5,"Low","5:20:00",78,"Waxing gibbous","2",27,"Rocky reef",3,3,"17",8,"Unprotected","Betty's Bay",80.53333333,"Summer-Fall","Fall-Winter",NA
+"332","BB62","17-07-24",NA,14.9,"NNW","13",17,"1025",1.8,1,"Low","2:47:00",0,"New moon","3",26.9,"Rocky reef",3,7,"17",24,"Unprotected","Betty's Bay",63.56666667,"Winter-Spring","Fall-Winter",NA
+"333","BB62","18-03-23",NA,13,"S","23",NA,"1008.4",NA,1,"High","3:25:00",38,"First quarter","3",30,"Rocky reef",1,3,"18",23,"Unprotected","Betty's Bay",63.21666667,"Summer-Fall","Fall-Winter",NA
+"334","BB62","18-07-09",NA,13,"N","12",NA,"1022",NA,NA,"Low","3:20:00",19,"Waning crescent","1",34,"Rocky reef",4,7,"18",9,"Unprotected","Betty's Bay",57.43333333,"Winter-Spring","Fall-Winter",NA
+"335","BB63","18-07-10",NA,15.3,"SE","6",NA,"1022.7",NA,1,"High","0:02:00",11,"Waning crescent","2",23,"Rocky reef",2,7,"18",10,"Protected","Betty's Bay",69.06666667,"Winter-Spring","Fall-Winter",NA
+"336","BB64","17-03-11",NA,14,"WNW","3.7",21,"1012",2,0,"High","6:10:00",98,"Waxing gibbous","3",10.7,"Kelp",3,3,"17",11,"Protected","Betty's Bay",61.75,"Summer-Fall","Fall-Winter",NA
+"337","BB64","17-10-30",NA,16,"ENE","22",18,"1016",NA,3,"Low","3:07:00",75,"Waxing gibbous","3",11.6,"Kelp",3,10,"17",30,"Protected","Betty's Bay",66.55,"Winter-Spring","Spring-Summer",NA
+"338","BB64","18-03-23",NA,13,"S","23",NA,"1008.4",NA,1,"High","3:33:00",38,"First quarter","3",11,"Kelp",1,3,"18",23,"Protected","Betty's Bay",51,"Summer-Fall","Fall-Winter",NA
+"339","BB64","18-07-10",NA,12.3,"SE","6",NA,"1022.7",NA,NA,"Low","2:15:00",11,"Waning crescent","3",14,"Kelp",2,7,"18",10,"Protected","Betty's Bay",67.16666667,"Winter-Spring","Fall-Winter",NA
+"340","BB65","17-03-08",NA,18,"S","14.8",19,"1012",2.3,5,"Low","0:55:00",78,"Waxing gibbous","2",18.6,"Rocky reef",2,3,"17",8,"Unprotected","Betty's Bay",62.35,"Summer-Fall","Fall-Winter",NA
+"341","BB65","17-07-24",NA,14.9,"NNW","18",19,"1023",1.9,1,"Low","3:12:00",0,"New moon","3",14.6,"Rocky reef",1,7,"17",24,"Unprotected","Betty's Bay",66.63333333,"Winter-Spring","Fall-Winter",NA
+"342","BB66","17-03-02",NA,13,"SE","13",19,"1007",1.9,0,"Low","2:15:00",18,"Waxing crescent","3",11.9,"Rocky reef",3,3,"17",2,"Unprotected","Betty's Bay",71.6,"Summer-Fall","Fall-Winter",NA
+"343","BB66","17-10-11",NA,15.2,"WSW","17",13,"1015",1.5,2,"High","5:04:00",62,"Waning gibbous","3",34.5,"Rocky reef",2,10,"17",11,"Unprotected","Betty's Bay",70.95,"Winter-Spring","Spring-Summer",NA
+"344","BB67","17-03-01",NA,14,"ENE","16.7",19,"1017",2,0,"High","3:22:00",7,"Waxing crescent","3",21.1,"Rocky reef",4,3,"17",1,"Unprotected","Betty's Bay",60.98333333,"Summer-Fall","Fall-Winter",NA
+"345","BB67","17-10-30",NA,16.2,"ENE","22",18,"1016",NA,3,"Low","3:01:00",75,"Waxing gibbous","3",19,"Rocky reef",3,10,"17",30,"Unprotected","Betty's Bay",59.78333333,"Winter-Spring","Spring-Summer",NA
+"346","BB68","17-03-11",NA,14,"WNW","25.9",20,"1012",2,0,"Low","0:37:00",98,"Waxing gibbous","2",18,"Rocky reef",1,3,"17",11,"Unprotected","Betty's Bay",68.95,"Summer-Fall","Fall-Winter",NA
+"347","BB68","17-07-24",NA,14.7,"NNE","8",9,"1028",1.8,1,"Low","0:39:00",0,"New moon","2",15.9,"Rocky reef",1,7,"17",24,"Unprotected","Betty's Bay",65.11666667,"Winter-Spring","Fall-Winter",NA
+"348","BB68","18-03-23",NA,14.7,"S","23",NA,"1008.4",NA,1,"High","4:48:00",38,"First quarter","3",17,"Rocky reef",1,3,"18",23,"Unprotected","Betty's Bay",63.91666667,"Summer-Fall","Fall-Winter",NA
+"349","BB68","18-07-10",NA,15,"SE","6",NA,"1022.7",NA,1,"Low","3:36:00",11,"Waning crescent","3",12,"Rocky reef",3,7,"18",10,"Unprotected","Betty's Bay",64.01666667,"Winter-Spring","Fall-Winter",NA
+"350","BB69","17-03-02",NA,15,"SSW","13",19,"1007",1.8,0,"Low","2:23:00",18,"Waxing crescent","3",18.9,"Sand",0,3,"17",2,"Unprotected","Betty's Bay",54.9,"Summer-Fall","Fall-Winter",NA
+"351","BB69","17-07-24",NA,14.7,"NNE","8",9,"1028",1.8,1,"Low","0:34:00",0,"New moon","2",16.8,"Sand",0,7,"17",24,"Unprotected","Betty's Bay",68.71666667,"Winter-Spring","Fall-Winter",NA
+"352","BB69","18-03-23",NA,15.1,"S","23",NA,"1008.4",NA,NA,"Low","0:10:00",38,"First quarter","3",18,"Sand",0,3,"18",23,"Unprotected","Betty's Bay",49.8,"Summer-Fall","Fall-Winter",NA
+"353","BB69","18-07-10",NA,12.3,"SE","6",NA,"1022.7",NA,1,"Low","2:08:00",11,"Waning crescent","1",12,"Sand",1,7,"18",10,"Unprotected","Betty's Bay",66.96666667,"Winter-Spring","Fall-Winter",NA
+"354","BB70","17-03-02",NA,15,"SSW","13",19,"1007",1.8,0,"Low","2:21:00",18,"Waxing crescent","4",18.9,"Rocky reef",2,3,"17",2,"Unprotected","Betty's Bay",69.65,"Summer-Fall","Fall-Winter",NA
+"355","BB70","17-07-24",NA,14.7,"NNE","8",9,"1028",1.8,1,"Low","0:29:00",0,"New moon","2",17.3,"Rocky reef",1,7,"17",24,"Unprotected","Betty's Bay",66.86666667,"Winter-Spring","Fall-Winter",NA
+"356","BB71","17-03-03",NA,16,"W","29.6",19,"1012",1.6,7,"High","4:19:00",24,"Waxing crescent","3",19.6,"Rocky reef",2,3,"17",3,"Unprotected","Betty's Bay",61.8,"Summer-Fall","Fall-Winter",NA
+"357","BB71","17-10-11",NA,15.1,"SW","20",14,"1014",1.5,2,"High","6:00:00",62,"Waning gibbous","1",19.7,"Rocky reef",2,10,"17",11,"Unprotected","Betty's Bay",74.45,"Winter-Spring","Spring-Summer",NA
+"358","BB71","18-03-23",NA,16.3,"SSW","19",19,"1008",1.4,0,"High","6:54:00",38,"First quarter","3",22,"Rocky reef",3,3,"18",23,"Unprotected","Betty's Bay",58.53333333,"Summer-Fall","Fall-Winter",NA
+"359","BB71","18-07-09",NA,13,"N","5",NA,"1024",NA,NA,"Low","3:02:00",19,"Waning crescent","3",23,"Rocky reef",1,7,"18",9,"Unprotected","Betty's Bay",57.26666667,"Winter-Spring","Fall-Winter",NA
+"360","BB72","17-03-03",NA,16,"W","29.6",19,"1012",1.6,7,"High","4:08:00",24,"Waxing crescent","3",35.7,"Rocky reef",2,3,"17",3,"Unprotected","Betty's Bay",63.41666667,"Summer-Fall","Fall-Winter",NA
+"361","BB72","17-07-24",NA,14.9,"NNW","13",17,"1025",1.8,1,"Low","2:52:00",0,"New moon","2",34.2,"Rocky reef",4,7,"17",24,"Unprotected","Betty's Bay",66.46666667,"Winter-Spring","Fall-Winter",NA
+"362","BB72","18-03-23",NA,16.3,"SW","15",20,"1008",1.4,0,"High","5:31:00",38,"First quarter","2",37,"Rocky reef",1,3,"18",23,"Unprotected","Betty's Bay",65.38333333,"Summer-Fall","Fall-Winter",NA
+"363","BB72","18-07-09",NA,13,"N","12",NA,"1022",NA,NA,"Low","3:02:00",19,"Waning crescent","2",37,"Rocky reef",1,7,"18",9,"Unprotected","Betty's Bay",58.5,"Winter-Spring","Fall-Winter",NA
+"364","BB73","17-03-08",NA,18,"S","14.8",19,"1012",2.3,5,"High","1:03:00",78,"Waxing gibbous","2",38,"Rocky reef",1,3,"17",8,"Unprotected","Betty's Bay",61.45,"Summer-Fall","Fall-Winter",NA
+"365","BB73","18-04-05",NA,16.4,NA,NA,NA,NA,NA,NA,NA,NA,76,"Waning gibbous","3",25,"Rocky reef",3,4,"18",5,"Unprotected","Betty's Bay",62.98333333,"Summer-Fall","Fall-Winter",NA
+"366","BB73","18-07-10",NA,15.7,"SE","6",NA,"1022.7",NA,1,"High","0:50:00",11,"Waning crescent","1",30,"Rocky reef",2,7,"18",10,"Unprotected","Betty's Bay",60.75,"Winter-Spring","Fall-Winter",NA
+"367","BB75","17-03-11",NA,14,"WNW","25.9",20,"1012",2,0,"Low","4:20:00",98,"Waxing gibbous","4",31.3,"Rocky reef",2,3,"17",11,"Unprotected","Betty's Bay",69.51666667,"Summer-Fall","Fall-Winter",NA
+"368","BB75","17-07-24",NA,14.9,"NNW","13",17,"1025",1.8,1,"Low","1:42:00",0,"New moon","2",30.1,"Rocky reef",3,7,"17",24,"Unprotected","Betty's Bay",74.01666667,"Winter-Spring","Fall-Winter",NA
+"369","BB75","18-05-06",NA,16.4,NA,NA,NA,NA,NA,NA,NA,NA,76,"Waning gibbous","3",25,"Rocky reef",0,5,"18",6,"Unprotected","Betty's Bay",60.33333333,"Summer-Fall","Fall-Winter",NA
+"370","BB75","18-07-09",NA,13,"NW","17",NA,"1021.3",2.2,NA,"Low","4:13:00",19,"Waning crescent","2",9,"Rocky reef",1,7,"18",9,"Unprotected","Betty's Bay",57.31666667,"Winter-Spring","Fall-Winter",NA
+"371","BB76","17-03-03",NA,16,"W","29.6",19,"1012",1.6,7,"High","4:12:00",24,"Waxing crescent","2",36.1,"Rocky reef",1,3,"17",3,"Unprotected","Betty's Bay",64.23333333,"Summer-Fall","Fall-Winter",NA
+"372","BB76","17-07-24",NA,13.9,"NNW","18",19,"1023",1.9,1,"Low","3:07:00",0,"New moon","1",36.4,"Rocky reef",1,7,"17",24,"Unprotected","Betty's Bay",39.35,"Winter-Spring","Fall-Winter",NA
+"373","BB77","17-03-08",NA,17,"S","14.8",19,"1012",2.3,5,"Low","5:56:00",78,"Waxing gibbous","2",20,"Rocky reef",2,3,"17",8,"Protected","Betty's Bay",67.21666667,"Summer-Fall","Fall-Winter",NA
+"374","BB77","17-10-30",NA,16.2,"ENE","22",18,"1016",NA,3,"Low","3:12:00",75,"Waxing gibbous","2",19,"Rocky reef",2,10,"17",30,"Protected","Betty's Bay",71.73333333,"Winter-Spring","Spring-Summer",NA
+"375","BB77","18-03-23",NA,16.3,"NE","11",14,"1010",1.5,0,"High","2:18:00",38,"First quarter","4",19,"Rocky reef",4,3,"18",23,"Protected","Betty's Bay",61.18333333,"Summer-Fall","Fall-Winter",NA
+"376","BB77","18-07-10",NA,14.9,"SE","6",NA,"1022.7",NA,1,"Low","3:46:00",11,"Waning crescent","3",19,"Rocky reef",1,7,"18",10,"Protected","Betty's Bay",61.98333333,"Winter-Spring","Fall-Winter",NA
+"377","BB78","17-03-16",NA,15.6,"SSW","4",22,"1014",2.1,1,"High","4:28:00",85,"Waning gibbous","2",27.2,"Rocky reef",1,3,"17",16,"Protected","Betty's Bay",61.95,"Summer-Fall","Fall-Winter",NA
+"378","BB78","17-07-24",NA,15,"NNW","13",17,"1025",1.8,1,"Low","2:26:00",0,"New moon","2",27.8,"Rocky reef",1,7,"17",24,"Protected","Betty's Bay",60,"Winter-Spring","Fall-Winter",NA
+"379","BB79","17-03-01",NA,14,"ENE","16.7",19,"1012",2,0,"High","3:05:00",7,"Waxing crescent","2",27.2,"Sand",0,3,"17",1,"Protected","Betty's Bay",61,"Summer-Fall","Fall-Winter",NA
+"380","BB79","17-10-11",NA,15,"WSW","17",13,"1015",1.5,2,"High","5:52:00",62,"Waning gibbous","2",28,"Sand",0,10,"17",11,"Protected","Betty's Bay",68.18333333,"Winter-Spring","Spring-Summer",NA
+"381","BB79","18-03-23",NA,16.3,"NE","11",14,"1010",1.5,0,"High","2:37:00",38,"First quarter","3",31,"Rocky reef",1,3,"18",23,"Protected","Betty's Bay",62.53333333,"Summer-Fall","Fall-Winter",NA
+"382","BB79","18-07-10",NA,14.9,"SE","1.9",15,"1027",2.1,1,"High","0:25:00",11,"Waning crescent","1",29,"Sand",0,7,"18",10,"Protected","Betty's Bay",60.68333333,"Winter-Spring","Fall-Winter",NA
+"383","BB8","17-03-02",NA,13,"ESE","20.4",19,"1008",1.9,0,"High","4:55:00",18,"Waxing crescent","2",10,"Kelp",0,3,"17",2,"Protected","Betty's Bay",67.68333333,"Summer-Fall","Fall-Winter",NA
+"384","BB8","17-10-30",NA,16,"SE","19",29,"1014",NA,2,"High","1:55:00",75,"Waxing gibbous","3",7,"Sand",0,10,"17",30,"Protected","Betty's Bay",85.71666667,"Winter-Spring","Spring-Summer",NA
+"385","BB8","18-03-20",NA,14.5,"SSE","17",NA,"1012.3",NA,1,"Low","1:12:00",10,"Waxing crescent","1",5.8,"Sand",0,3,"18",20,"Protected","Betty's Bay",62.81666667,"Summer-Fall","Fall-Winter",NA
+"386","BB8","18-07-10",NA,14.9,"SE","6",NA,"1022.7",NA,1,"Low","3:46:00",11,"Waning crescent","3",7,"Rocky reef",4,7,"18",10,"Protected","Betty's Bay",61.05,"Winter-Spring","Fall-Winter",NA
+"387","BB80","17-03-02",NA,13,"SE","13",19,"1007",1.9,0,"Low","0:25:00",18,"Waxing crescent","4",28,"Rocky reef",4,3,"17",2,"Protected","Betty's Bay",83.91666667,"Summer-Fall","Fall-Winter",NA
+"388","BB80","17-10-11",NA,14.7,"WSW","17",13,"1015",1.5,2,"High","4:01:00",62,"Waning gibbous","3",28,"Rocky reef",1,10,"17",11,"Protected","Betty's Bay",66.03333333,"Winter-Spring","Spring-Summer",NA
+"389","BB80","18-07-09",NA,14,"NW","17",NA,"1021.3",2.2,NA,"Low","6:01:00",19,"Waning crescent","1",22,"Sand",1,7,"18",9,"Protected","Betty's Bay",52.23333333,"Winter-Spring","Fall-Winter",NA
+"390","BB81","17-03-08",NA,16,"S","13",19,"1012",2.4,5,"Low","5:10:00",78,"Waxing gibbous","2",30,"Rocky reef",1,3,"17",8,"Protected","Betty's Bay",86.08333333,"Summer-Fall","Fall-Winter",NA
+"391","BB81","17-07-24",NA,14.9,"NNW","13",17,"1025",1.8,1,"Low","2:36:00",0,"New moon","3",20,"Rocky reef",1,7,"17",24,"Protected","Betty's Bay",64.66666667,"Winter-Spring","Fall-Winter",NA
+"392","BB81","18-07-10",NA,14.7,"SE","1.9",14,"1028",2.1,1,"Low","5:01:00",11,"Waning crescent","3",27,"Rocky reef",2,7,"18",10,"Protected","Betty's Bay",62.88333333,"Winter-Spring","Fall-Winter",NA
+"393","BB82","17-03-16",NA,14,"S","3",21,"1014",2.1,1,"High","3:44:00",85,"Waning gibbous","3",12.1,"Kelp",2,3,"17",16,"Unprotected","Betty's Bay",70.1,"Summer-Fall","Fall-Winter",NA
+"394","BB82","17-10-30",NA,16,"E","21",23,"1016",NA,3,"Low","3:32:00",75,"Waxing gibbou","3",13.9,"Kelp",4,10,"17",30,"Unprotected","Betty's Bay",59.66666667,"Winter-Spring","Spring-Summer",NA
+"395","BB82","18-03-20",NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2",12.5,"Kelp",3,3,"18",20,"Unprotected","Betty's Bay",63.03333333,"Summer-Fall","Fall-Winter",NA
+"396","BB82","18-07-09",NA,15,"NW","17",NA,"1021.3",NA,NA,"Low","6:01:00",19,"Waning crescent","2",14,"Kelp",1,7,"18",9,"Unprotected","Betty's Bay",67.4,"Winter-Spring","Fall-Winter",NA
+"397","BB83","17-03-02",NA,13,"ESE","22.5",19,"1008",2,0,"High","3:15:00",18,"Waxing crescent","4",13,"Kelp",4,3,"17",2,"Unprotected","Betty's Bay",56.18333333,"Summer-Fall","Fall-Winter",NA
+"398","BB83","17-10-30",NA,17.6,"E","21",23,"1016",NA,3,"Low","5:15:00",75,"Waxing gibbous","3",13,"Rocky reef",3,10,"17",30,"Unprotected","Betty's Bay",76.28333333,"Winter-Spring","Spring-Summer",NA
+"399","BB83","18-03-20",NA,14.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"3",13.6,"Kelp",4,3,"18",20,"Unprotected","Betty's Bay",73.31666667,"Summer-Fall","Fall-Winter",NA
+"400","BB84","17-04-01",NA,19,"S","19",20,"1015",2.9,6,"Low","1:39:00",21,"Waxing crescent","2",15.8,"Kelp",2,4,"17",1,"Unprotected","Betty's Bay",62.56666667,"Summer-Fall","Fall-Winter",NA
+"401","BB84","17-10-30",NA,16.3,"ENE","22",18,"1016",NA,3,"Low","3:40:00",75,"Waxing gibbous","3",11.5,"Rocky reef",1,10,"17",30,"Unprotected","Betty's Bay",57.93333333,"Winter-Spring","Spring-Summer",NA
+"402","BB84","18-07-09",NA,14.9,"NW","17",NA,"1021.3",2.2,NA,"Low","4:19:00",19,"Waning crescent","1",19,"Sand",0,7,"18",9,"Unprotected","Betty's Bay",62.35,"Winter-Spring","Fall-Winter",NA
+"403","BB85","17-03-11",NA,14,"NW","33",20,"1011",2,0,"Low","3:30:00",98,"Waxing gibbous","2",11.5,"Sand",0,3,"17",11,"Unprotected","Betty's Bay",71.81666667,"Summer-Fall","Fall-Winter",NA
+"404","BB85","18-05-06",NA,17.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1",10,"Sand",0,5,"18",6,"Unprotected","Betty's Bay",69.78333333,"Summer-Fall","Fall-Winter",NA
+"405","BB85","18-07-09",NA,15,"N","12",NA,"1022",2.2,NA,"Low","3:11:00",19,"Waning crescent","1",10,"Sand",1,7,"18",9,"Unprotected","Betty's Bay",66.5,"Winter-Spring","Fall-Winter",NA
+"406","BB86","17-03-11",NA,13.5,"WNW","30",20,"1011",2,0,"Low","1:56:00",98,"Waxing gibbous","4",30,"Sand",0,3,"17",11,"Unprotected","Betty's Bay",65.9,"Summer-Fall","Fall-Winter",NA
+"407","BB86","17-10-30",NA,16.5,"E","21",23,"1016",NA,3,"Low","5:20:00",75,"Waxing gibbous","3",18,"Sand",1,10,"17",30,"Unprotected","Betty's Bay",76.18333333,"Winter-Spring","Spring-Summer",NA
+"408","BB86","18-03-20",NA,17.7,"SW","0",20,"1014.3",NA,1,"High","4:19:00",10,"Waxing crescent","3",14.3,"Rocky reef",3,3,"18",20,"Unprotected","Betty's Bay",37.78333333,"Summer-Fall","Fall-Winter",NA
+"409","BB86","18-07-09",NA,14.9,"NW","17",NA,"1021.3",NA,NA,"Low","5:58:00",19,"Waning crescent","1",18,"Sand",0,7,"18",9,"Unprotected","Betty's Bay",64.55,"Winter-Spring","Fall-Winter",NA
+"410","BB87","17-03-02",NA,13,"SE","13",19,"1007",1.9,0,"Low","0:29:00",18,"Waxing crescent","4",16.7,"Rocky reef",4,3,"17",2,"Protected","Betty's Bay",70.41666667,"Summer-Fall","Fall-Winter",NA
+"411","BB87","17-10-30",NA,16.5,"ESE","20",27,"1015",NA,2,"High","0:22:00",75,"Waxing gibbous","3",17,"Rocky reef",3,10,"17",30,"Protected","Betty's Bay",64.41666667,"Winter-Spring","Spring-Summer",NA
+"412","BB88","17-03-23",NA,18,"WSW","11",20,"1015",1.7,6,"Low","2:32:00",24,"Waning crescent","2",34.8,"Sand",0,3,"17",23,"Protected","Betty's Bay",64.46666667,"Summer-Fall","Fall-Winter",NA
+"413","BB88","17-07-24",NA,14.7,"NNE","8",9,"1028",1.8,1,"Low","0:49:00",0,"New moon","3",35,"Rocky reef",2,7,"17",24,"Protected","Betty's Bay",70.93333333,"Winter-Spring","Fall-Winter",NA
+"414","BB88","18-03-20",NA,15.7,"NW","22",20,"1014.3",NA,1,"Low","3:05:00",10,"Waxing crescent","3",32.1,"Rocky reef",4,3,"18",20,"Protected","Betty's Bay",58.83333333,"Summer-Fall","Fall-Winter",NA
+"415","BB88","18-07-09",NA,15,"NW","17",NA,"1021.3",2.2,NA,"High","1:14:00",19,"Waning crescent","1",33,"Rocky reef",3,7,"18",9,"Protected","Betty's Bay",60.43333333,"Winter-Spring","Fall-Winter",NA
+"416","BB9","17-03-01",NA,14,"SE","15",18,"1016",2,0,"High","0:50:00",7,"Waxing crescent","4",20.8,"Kelp",0,3,"17",1,"Protected","Betty's Bay",58.4,"Summer-Fall","Fall-Winter",NA
+"417","BB9","18-03-20",NA,14.8,"SSE","17",1012.3,NA,NA,1,"Low","1:22:00",10,"Waxing crescent","3",10.8,"Kelp",0,3,"18",20,"Protected","Betty's Bay",82.13333333,"Summer-Fall","Fall-Winter",NA
+"418","BB90","17-03-08",NA,18,"S","14.8",19,"1012",2.3,5,"Low","0:46:00",78,"Waxing gibbous","4",28.2,"Rocky reef",3,3,"17",8,"Unprotected","Betty's Bay",63.26666667,"Summer-Fall","Fall-Winter",NA
+"419","BB90","17-07-24",NA,14.9,"NNW","13",17,"1025",1.8,1,"Low","2:33:00",0,"New moon","3",21.8,"Rocky reef",2,7,"17",24,"Unprotected","Betty's Bay",40.01666667,"Winter-Spring","Fall-Winter",NA
